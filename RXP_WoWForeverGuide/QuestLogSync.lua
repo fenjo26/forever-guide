@@ -4,7 +4,8 @@
 --    for your class (your race's route and every "Start in ..." route), each on the bracket that fits your level.
 -- 2. Whenever a WoW Forever guide is opened (from that window or from RestedXP's own list) it skips what you have
 --    already done and jumps to the quests that are in your quest log: steps are matched by quest ID, or by the quest
---    names written in the step text. With an empty log it skips steps whose quests you have already handed in.
+--    names written in the step text. With an empty log it skips steps whose quests you have already handed in: the
+--    names are looked up in QuestIDs.lua and checked with IsQuestFlaggedCompleted.
 --
 -- /wfg        pick a guide
 -- /wfg sync   jump the current guide to the quests in your log again
@@ -26,6 +27,13 @@ end
 
 local function isOurGuide(guide)
     return type(guide) == "table" and type(guide.group) == "string" and guide.group:sub(1, #GROUP_PREFIX) == GROUP_PREFIX
+end
+
+-- Current RestedXP builds keep a step's elements in step.elements; older builds stored them in the
+-- step table itself. Walk whichever is there.
+local function stepElements(step)
+    if type(step.elements) == "table" then return step.elements end
+    return step
 end
 
 ---------------------------------------------------------------------------------------------------
@@ -75,6 +83,84 @@ local function turnedIn(id)
 end
 
 ---------------------------------------------------------------------------------------------------
+-- Quest titles -> IDs (QuestIDs.lua), for steps that only name quests in their text
+---------------------------------------------------------------------------------------------------
+
+-- "The Hunt Begins" -> "the hunt begins", "Break Sharptusk!" -> "break sharptusk"
+local function normalizeTitle(title)
+    local t = tostring(title):lower():gsub("’", "'")
+    t = t:gsub("^[%s.]+", ""):gsub("[%s.!?:]+$", "")
+    return t
+end
+
+local TITLE_ENTRIES -- { {title = "lower case", ids = {n, ...}}, ... }
+local TITLE_BY_ID   -- [id] = "lower case"
+
+local function buildTitleIndex()
+    TITLE_ENTRIES, TITLE_BY_ID = {}, {}
+    for title, v in pairs(WoWForeverGuide_QuestIds or {}) do
+        local ids = type(v) == "table" and v or { v }
+        local norm = normalizeTitle(title)
+        if #norm >= 3 then
+            local copy = {}
+            for i = 1, #ids do copy[i] = tonumber(ids[i]) or 0 end
+            table.sort(copy)
+            TITLE_ENTRIES[#TITLE_ENTRIES + 1] = { title = norm, ids = copy }
+            for i = 1, #copy do TITLE_BY_ID[copy[i]] = norm end
+        end
+    end
+end
+
+local ROMAN_PARTS = { ii = true, iii = true, iv = true, vi = true, vii = true, viii = true, ix = true, xi = true, xii = true }
+local function isWordChar(c)
+    return c ~= "" and (c:find("[%w']") ~= nil)
+end
+
+-- does text name this quest title? plain find with word boundaries; "The Foo" inside
+-- "The Foo II" does not count (that's a different quest in the chain)
+local function textNamesTitle(text, title)
+    local from = 1
+    while true do
+        local s, e = text:find(title, from, true)
+        if not s then return false end
+        local beforeOk = s == 1 or not isWordChar(text:sub(s - 1, s - 1))
+        local afterOk = e >= #text or not isWordChar(text:sub(e + 1, e + 1))
+        if beforeOk and afterOk then
+            -- "The Foo II" / "The Foo 2" is a follow-up, not "The Foo"
+            local rest = text:sub(e + 1):lower():gsub("^[%s!.,;:]-", "")
+            local word = rest:match("^(%w+)") or ""
+            if not ROMAN_PARTS[word] and word ~= "2" and word ~= "3" then return true end
+        end
+        from = s + 1
+    end
+end
+
+-- every quest ID a step refers to: by element questId, or by the titles its text names
+local function stepQuestIds(step)
+    local ids, seen = {}, {}
+    local function add(id)
+        if id and not seen[id] then seen[id] = true; ids[#ids + 1] = id end
+    end
+    for _, element in ipairs(stepElements(step)) do
+        if type(element) == "table" then
+            local id = tonumber(element.questId)
+            if id then
+                add(id)
+            elseif type(element.text) == "string" and not element.questId then
+                if not TITLE_ENTRIES then buildTitleIndex() end
+                local text = element.text:lower():gsub("’", "'")
+                for _, entry in ipairs(TITLE_ENTRIES) do
+                    if textNamesTitle(text, entry.title) then
+                        for i = 1, #entry.ids do add(entry.ids[i]) end
+                    end
+                end
+            end
+        end
+    end
+    return ids
+end
+
+---------------------------------------------------------------------------------------------------
 -- Jumping the open guide to the quests in the log
 ---------------------------------------------------------------------------------------------------
 
@@ -83,15 +169,24 @@ end
 --   "picked" it only accepts a quest you already have (you are past it)
 local function stepAgainstLog(step, log)
     local picked = false
-    for _, element in ipairs(step) do
+    for _, element in ipairs(stepElements(step)) do
         if type(element) == "table" then
             local id = tonumber(element.questId)
             if id and log.ids[id] then
                 if element.tag == "accept" then picked = true else return "work" end
-            elseif element.text and not element.questId then
-                local text = tostring(element.text):lower()
+            elseif type(element.text) == "string" and not element.questId then
+                local text = element.text:lower()
                 for _, title in ipairs(log.titles) do
                     if text:find(title, 1, true) then return "work" end
+                end
+                -- its text names a quest that is in the log under one of our known IDs
+                if not TITLE_ENTRIES then buildTitleIndex() end
+                for _, entry in ipairs(TITLE_ENTRIES) do
+                    if textNamesTitle(text, entry.title) then
+                        for i = 1, #entry.ids do
+                            if log.ids[entry.ids[i]] then return "work" end
+                        end
+                    end
                 end
             end
         end
@@ -99,19 +194,33 @@ local function stepAgainstLog(step, log)
     return picked and "picked" or nil
 end
 
--- every quest this step names by ID is already handed in
-local function stepAllDone(step)
-    local any = false
-    for _, element in ipairs(step) do
-        if type(element) == "table" then
-            local id = tonumber(element.questId)
-            if id then
-                any = true
-                if not turnedIn(id) then return false end
-            end
+-- Steps that name no quest (travel, grind, class tips) only matter for the quests around them:
+-- a quest-less step is skippable when everything after it in the guide is skippable too.
+local function firstStepWithSomethingToDo(guide)
+    local n = #guide.steps
+    local allDone, questless = {}, {}
+    for i = 1, n do
+        local ids = stepQuestIds(guide.steps[i])
+        questless[i] = #ids == 0
+        allDone[i] = not questless[i]
+        for j = 1, #ids do
+            if not turnedIn(ids[j]) then allDone[i] = false; break end
         end
     end
-    return any
+    local skippable = {}
+    for i = n, 1, -1 do
+        if allDone[i] then
+            skippable[i] = true
+        elseif questless[i] then
+            skippable[i] = i == n or skippable[i + 1] == true
+        else
+            skippable[i] = false
+        end
+    end
+    for i = 1, n do
+        if not skippable[i] then return i end
+    end
+    return n -- everything is done: the last step rounds the bracket off and loads the next one
 end
 
 function WFG.Sync(quiet)
@@ -137,9 +246,7 @@ function WFG.Sync(quiet)
 
     if not target then
         -- nothing from the log in this guide: start at the first step that still has something to do
-        for i, step in ipairs(guide.steps) do
-            if not stepAllDone(step) then target = i; break end
-        end
+        target = firstStepWithSomethingToDo(guide)
         why = "the first quest you haven't done yet"
     end
 

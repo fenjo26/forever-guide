@@ -62,13 +62,19 @@ For example, **WoW Forever - Druid > Night Elf route**: 1-14 Teldrassil/Darkshor
   your class, each on the bracket for your level.
 - **Opening a guide** (from that window or from RestedXP's list) skips what you've done and jumps to the quests in your
   quest log. Steps are matched by quest ID, or by the quest names written in the step. With an empty log it skips the
-  steps whose quests you've already handed in.
+  steps whose quests you've already handed in: quest titles are looked up in `QuestIDs.lua` (~4000 WoW: Forever titles)
+  and checked against the game with `IsQuestFlaggedCompleted`, so picking up a guide mid-route — say, a Horde druid
+  arriving at level 10 — lands on the first quest you haven't done yet. A title that maps to several IDs (faction or
+  zone variants) only counts as done when every ID is completed.
 - **/wfg** opens the guide picker any time; **/wfg sync** jumps the open guide to your quest log again.
 
 ### Rebuilding the brackets
 
 The brackets are made from the full routes by `tools/split-brackets.cjs` (Node.js). It cuts at every `.xp` level
 checkpoint and names each bracket after the zones it visits.
+
+`RXP_WoWForeverGuide/QuestIDs.lua` (quest title → ID, used by the sync) is generated data: the quest titles and IDs
+of WoW: Forever, titles that several quests share kept as a list. Regenerate it whenever new quests are mapped out.
 
 ## Notes
 
