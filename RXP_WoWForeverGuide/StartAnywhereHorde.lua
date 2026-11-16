@@ -1,3 +1,4 @@
+if WoWForeverGuide_UseEnglish then
 -- WoW: Forever leveling guides for RestedXP: any race, any Horde starting zone (1-60, every class).
 -- Split into level brackets by tools/split-brackets.cjs: one guide per zone, grouped by class.
 
@@ -10740,3 +10741,4 @@ step
 step
     >>Level 60! Train your final spells in your capital city
 ]])
+end

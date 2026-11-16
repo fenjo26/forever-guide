@@ -113,7 +113,11 @@ end
 
 local ROMAN_PARTS = { ii = true, iii = true, iv = true, vi = true, vii = true, viii = true, ix = true, xi = true, xii = true }
 local function isWordChar(c)
-    return c ~= "" and (c:find("[%w']") ~= nil)
+    if c == nil or c == "" then return false end
+    -- any UTF-8 continuation/lead byte belongs to a word: Lua's %w is ASCII-only,
+    -- so without this Cyrillic/CJK titles could match inside longer words
+    if c:byte(1) >= 128 then return true end
+    return c:find("[%w']") ~= nil
 end
 
 -- does text name this quest title? plain find with word boundaries; "The Foo" inside

@@ -3,6 +3,8 @@
 Leveling guides for **World of Warcraft: Forever** that load straight into the **RestedXP** addon.
 Every race and class you can pick in Forever is covered, including the new Skyborne race, plus start-anywhere routes so any class can level through any starting zone of its faction. Each route is split into zone brackets (for example **14-17 Darkshore**, **24-28 Wetlands**), grouped by class, and each bracket loads the next one when you finish it.
 
+The guides ship in **ten languages**: English plus Español (esES/esMX), Português, Deutsch, Français, Русский, 한국어, 简体中文 and 繁體中文. The client's language is detected automatically (`GetLocale()`); quest, NPC and place names use the official localized names, so they match what you see in your quest log, and quest-log sync works in every language.
+
 ## Download
 
 1. Go to **[Releases](../../releases/latest)** and download **RXP_WoWForeverGuide.zip**.
@@ -75,6 +77,21 @@ checkpoint and names each bracket after the zones it visits.
 
 `RXP_WoWForeverGuide/QuestIDs.lua` (quest title → ID, used by the sync) is generated data: the quest titles and IDs
 of WoW: Forever, titles that several quests share kept as a list. Regenerate it whenever new quests are mapped out.
+
+### Regenerating the translations
+
+`tools/translate-locales.py` regenerates the `Guides_<locale>.lua` files. Quest, NPC, object and zone names are
+swapped for the official localized names from the WoW: Forever quest database (the same Questie/QuestieDB data the
+[RestedXP-Traslation](https://github.com/eygelias/RestedXP-Traslation) project uses); only the connecting prose goes
+through Google Translate (batched, cached in `tools/loccache/`). `LocaleGate.lua` picks the client's language, and
+the English originals are wrapped in `if WoWForeverGuide_UseEnglish then ... end` so no language registers twice:
+
+```
+python3 tools/translate-locales.py \
+    --db /path/to/questiedb_forever.json \
+    --zones-dir /path/to/RestedXP-Traslation/database \
+    [--locales ruRU deDE ...] [--force]
+```
 
 ## Notes
 
