@@ -4,6 +4,7 @@ if WoWForeverGuide_UseEnglish then
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warrior
 #group WoW Forever - Warrior
 #subgroup Night Elf route
@@ -210,6 +211,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warrior
 #group WoW Forever - Warrior
 #subgroup Night Elf route
@@ -234,6 +236,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warrior
 #group WoW Forever - Warrior
 #subgroup Night Elf route
@@ -256,6 +259,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warrior
 #group WoW Forever - Warrior
 #subgroup Night Elf route
@@ -286,6 +290,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warrior
 #group WoW Forever - Warrior
 #subgroup Night Elf route
@@ -313,6 +318,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warrior
 #group WoW Forever - Warrior
 #subgroup Night Elf route
@@ -337,6 +343,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warrior
 #group WoW Forever - Warrior
 #subgroup Night Elf route
@@ -363,6 +370,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warrior
 #group WoW Forever - Warrior
 #subgroup Night Elf route
@@ -387,6 +395,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warrior
 #group WoW Forever - Warrior
 #subgroup Night Elf route
@@ -414,6 +423,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warrior
 #group WoW Forever - Warrior
 #subgroup Night Elf route
@@ -438,6 +448,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warrior
 #group WoW Forever - Warrior
 #subgroup Night Elf route
@@ -462,6 +473,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warrior
 #group WoW Forever - Warrior
 #subgroup Night Elf route
@@ -486,6 +498,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warrior
 #group WoW Forever - Warrior
 #subgroup Night Elf route
@@ -510,6 +523,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warrior
 #group WoW Forever - Warrior
 #subgroup Night Elf route
@@ -534,6 +548,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warrior
 #group WoW Forever - Warrior
 #subgroup Night Elf route
@@ -558,6 +573,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warrior
 #group WoW Forever - Warrior
 #subgroup Night Elf route
@@ -582,6 +598,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warrior
 #group WoW Forever - Warrior
 #subgroup Night Elf route
@@ -606,6 +623,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warrior
 #group WoW Forever - Warrior
 #subgroup Night Elf route
@@ -631,6 +649,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Hunter
 #group WoW Forever - Hunter
 #subgroup Night Elf route
@@ -837,6 +856,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Hunter
 #group WoW Forever - Hunter
 #subgroup Night Elf route
@@ -861,6 +881,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Hunter
 #group WoW Forever - Hunter
 #subgroup Night Elf route
@@ -883,6 +904,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Hunter
 #group WoW Forever - Hunter
 #subgroup Night Elf route
@@ -913,6 +935,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Hunter
 #group WoW Forever - Hunter
 #subgroup Night Elf route
@@ -940,6 +963,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Hunter
 #group WoW Forever - Hunter
 #subgroup Night Elf route
@@ -964,6 +988,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Hunter
 #group WoW Forever - Hunter
 #subgroup Night Elf route
@@ -990,6 +1015,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Hunter
 #group WoW Forever - Hunter
 #subgroup Night Elf route
@@ -1014,6 +1040,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Hunter
 #group WoW Forever - Hunter
 #subgroup Night Elf route
@@ -1041,6 +1068,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Hunter
 #group WoW Forever - Hunter
 #subgroup Night Elf route
@@ -1065,6 +1093,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Hunter
 #group WoW Forever - Hunter
 #subgroup Night Elf route
@@ -1089,6 +1118,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Hunter
 #group WoW Forever - Hunter
 #subgroup Night Elf route
@@ -1113,6 +1143,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Hunter
 #group WoW Forever - Hunter
 #subgroup Night Elf route
@@ -1137,6 +1168,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Hunter
 #group WoW Forever - Hunter
 #subgroup Night Elf route
@@ -1161,6 +1193,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Hunter
 #group WoW Forever - Hunter
 #subgroup Night Elf route
@@ -1185,6 +1218,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Hunter
 #group WoW Forever - Hunter
 #subgroup Night Elf route
@@ -1209,6 +1243,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Hunter
 #group WoW Forever - Hunter
 #subgroup Night Elf route
@@ -1233,6 +1268,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Hunter
 #group WoW Forever - Hunter
 #subgroup Night Elf route
@@ -1258,6 +1294,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Rogue
 #group WoW Forever - Rogue
 #subgroup Night Elf route
@@ -1464,6 +1501,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Rogue
 #group WoW Forever - Rogue
 #subgroup Night Elf route
@@ -1488,6 +1526,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Rogue
 #group WoW Forever - Rogue
 #subgroup Night Elf route
@@ -1510,6 +1549,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Rogue
 #group WoW Forever - Rogue
 #subgroup Night Elf route
@@ -1540,6 +1580,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Rogue
 #group WoW Forever - Rogue
 #subgroup Night Elf route
@@ -1569,6 +1610,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Rogue
 #group WoW Forever - Rogue
 #subgroup Night Elf route
@@ -1593,6 +1635,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Rogue
 #group WoW Forever - Rogue
 #subgroup Night Elf route
@@ -1617,6 +1660,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Rogue
 #group WoW Forever - Rogue
 #subgroup Night Elf route
@@ -1641,6 +1685,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Rogue
 #group WoW Forever - Rogue
 #subgroup Night Elf route
@@ -1668,6 +1713,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Rogue
 #group WoW Forever - Rogue
 #subgroup Night Elf route
@@ -1692,6 +1738,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Rogue
 #group WoW Forever - Rogue
 #subgroup Night Elf route
@@ -1716,6 +1763,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Rogue
 #group WoW Forever - Rogue
 #subgroup Night Elf route
@@ -1740,6 +1788,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Rogue
 #group WoW Forever - Rogue
 #subgroup Night Elf route
@@ -1764,6 +1813,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Rogue
 #group WoW Forever - Rogue
 #subgroup Night Elf route
@@ -1788,6 +1838,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Rogue
 #group WoW Forever - Rogue
 #subgroup Night Elf route
@@ -1812,6 +1863,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Rogue
 #group WoW Forever - Rogue
 #subgroup Night Elf route
@@ -1836,6 +1888,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Rogue
 #group WoW Forever - Rogue
 #subgroup Night Elf route
@@ -1860,6 +1913,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Rogue
 #group WoW Forever - Rogue
 #subgroup Night Elf route
@@ -1885,6 +1939,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Priest
 #group WoW Forever - Priest
 #subgroup Night Elf route
@@ -2091,6 +2146,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Priest
 #group WoW Forever - Priest
 #subgroup Night Elf route
@@ -2115,6 +2171,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Priest
 #group WoW Forever - Priest
 #subgroup Night Elf route
@@ -2137,6 +2194,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Priest
 #group WoW Forever - Priest
 #subgroup Night Elf route
@@ -2167,6 +2225,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Priest
 #group WoW Forever - Priest
 #subgroup Night Elf route
@@ -2194,6 +2253,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Priest
 #group WoW Forever - Priest
 #subgroup Night Elf route
@@ -2218,6 +2278,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Priest
 #group WoW Forever - Priest
 #subgroup Night Elf route
@@ -2242,6 +2303,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Priest
 #group WoW Forever - Priest
 #subgroup Night Elf route
@@ -2266,6 +2328,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Priest
 #group WoW Forever - Priest
 #subgroup Night Elf route
@@ -2293,6 +2356,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Priest
 #group WoW Forever - Priest
 #subgroup Night Elf route
@@ -2317,6 +2381,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Priest
 #group WoW Forever - Priest
 #subgroup Night Elf route
@@ -2341,6 +2406,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Priest
 #group WoW Forever - Priest
 #subgroup Night Elf route
@@ -2365,6 +2431,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Priest
 #group WoW Forever - Priest
 #subgroup Night Elf route
@@ -2389,6 +2456,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Priest
 #group WoW Forever - Priest
 #subgroup Night Elf route
@@ -2413,6 +2481,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Priest
 #group WoW Forever - Priest
 #subgroup Night Elf route
@@ -2437,6 +2506,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Priest
 #group WoW Forever - Priest
 #subgroup Night Elf route
@@ -2461,6 +2531,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Priest
 #group WoW Forever - Priest
 #subgroup Night Elf route
@@ -2485,6 +2556,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Priest
 #group WoW Forever - Priest
 #subgroup Night Elf route
@@ -2510,6 +2582,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Druid
 #group WoW Forever - Druid
 #subgroup Night Elf route
@@ -2716,6 +2789,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Druid
 #group WoW Forever - Druid
 #subgroup Night Elf route
@@ -2740,6 +2814,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Druid
 #group WoW Forever - Druid
 #subgroup Night Elf route
@@ -2764,6 +2839,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Druid
 #group WoW Forever - Druid
 #subgroup Night Elf route
@@ -2794,6 +2870,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Druid
 #group WoW Forever - Druid
 #subgroup Night Elf route
@@ -2821,6 +2898,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Druid
 #group WoW Forever - Druid
 #subgroup Night Elf route
@@ -2845,6 +2923,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Druid
 #group WoW Forever - Druid
 #subgroup Night Elf route
@@ -2871,6 +2950,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Druid
 #group WoW Forever - Druid
 #subgroup Night Elf route
@@ -2895,6 +2975,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Druid
 #group WoW Forever - Druid
 #subgroup Night Elf route
@@ -2922,6 +3003,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Druid
 #group WoW Forever - Druid
 #subgroup Night Elf route
@@ -2946,6 +3028,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Druid
 #group WoW Forever - Druid
 #subgroup Night Elf route
@@ -2970,6 +3053,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Druid
 #group WoW Forever - Druid
 #subgroup Night Elf route
@@ -2994,6 +3078,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Druid
 #group WoW Forever - Druid
 #subgroup Night Elf route
@@ -3018,6 +3103,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Druid
 #group WoW Forever - Druid
 #subgroup Night Elf route
@@ -3042,6 +3128,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Druid
 #group WoW Forever - Druid
 #subgroup Night Elf route
@@ -3066,6 +3153,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Druid
 #group WoW Forever - Druid
 #subgroup Night Elf route
@@ -3090,6 +3178,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Druid
 #group WoW Forever - Druid
 #subgroup Night Elf route
@@ -3114,6 +3203,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Druid
 #group WoW Forever - Druid
 #subgroup Night Elf route

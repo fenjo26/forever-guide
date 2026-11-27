@@ -14,11 +14,21 @@
 
 local GROUP_PREFIX = "WoW Forever - "
 
+-- FuntGuides patch: sync these guide groups too, not only "WoW Forever - *"
+local SYNC_GROUPS = {
+    ["WoW Forever - "] = "prefix",
+    ["RestedXP Horde 30-45"] = "exact",
+    ["FuntGuides - Class Quests"] = "exact",
+    ["FuntGuides - Forever Custom"] = "exact",
+    ["RestedXP Forever Guide (H)"] = "exact",
+    ["RestedXP Forever Guide (A)"] = "exact",
+}
+
 local WFG = {}
 _G.WoWForeverGuide = WFG
 
 local function say(msg)
-    DEFAULT_CHAT_FRAME:AddMessage("|cff7fd1ffWoW Forever Guide:|r " .. msg)
+    DEFAULT_CHAT_FRAME:AddMessage("|cff7fd1ffFuntGuides:|r " .. msg)
 end
 
 local function rxpReady()
@@ -26,7 +36,15 @@ local function rxpReady()
 end
 
 local function isOurGuide(guide)
-    return type(guide) == "table" and type(guide.group) == "string" and guide.group:sub(1, #GROUP_PREFIX) == GROUP_PREFIX
+    if type(guide) ~= "table" or type(guide.group) ~= "string" then return false end
+    for name, mode in pairs(SYNC_GROUPS) do
+        if mode == "prefix" then
+            if guide.group:sub(1, #name) == name then return true end
+        elseif guide.group == name then
+            return true
+        end
+    end
+    return false
 end
 
 -- Current RestedXP builds keep a step's elements in step.elements; older builds stored them in the
@@ -348,7 +366,7 @@ local function makePicker()
 
     f.title = f:CreateFontString(nil, "OVERLAY", "GameFontHighlight")
     f.title:SetPoint("TOP", 0, -6)
-    f.title:SetText("WoW Forever Guide")
+    f.title:SetText("FuntGuides")
 
     f.text = f:CreateFontString(nil, "OVERLAY", "GameFontNormal")
     f.text:SetPoint("TOPLEFT", 18, -34)
@@ -443,7 +461,7 @@ SLASH_WOWFOREVERGUIDE1 = "/wfg"
 SlashCmdList.WOWFOREVERGUIDE = function(msg)
     msg = tostring(msg or ""):lower():gsub("^%s+", ""):gsub("%s+$", "")
     if msg == "sync" then
-        if isOurGuide(rxpReady() and RXP.currentGuide) then WFG.Sync(false) else say("open a WoW Forever guide first.") end
+        if isOurGuide(rxpReady() and RXP.currentGuide) then WFG.Sync(false) else say("open a synced guide first (WoW Forever, RestedXP Horde 30-45, FuntGuides Class Quests).") end
     else
         WFG.ShowPicker()
     end

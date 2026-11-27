@@ -4,6 +4,7 @@ if WoWForeverGuide_UseEnglish then
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warrior
 #group WoW Forever - Warrior
 #subgroup Gnome route
@@ -32,6 +33,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warrior
 #group WoW Forever - Warrior
 #subgroup Gnome route
@@ -63,6 +65,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warrior
 #group WoW Forever - Warrior
 #subgroup Gnome route
@@ -92,6 +95,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warrior
 #group WoW Forever - Warrior
 #subgroup Gnome route
@@ -116,6 +120,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warrior
 #group WoW Forever - Warrior
 #subgroup Gnome route
@@ -145,6 +150,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warrior
 #group WoW Forever - Warrior
 #subgroup Gnome route
@@ -169,6 +175,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warrior
 #group WoW Forever - Warrior
 #subgroup Gnome route
@@ -195,6 +202,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warrior
 #group WoW Forever - Warrior
 #subgroup Gnome route
@@ -219,6 +227,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warrior
 #group WoW Forever - Warrior
 #subgroup Gnome route
@@ -246,6 +255,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warrior
 #group WoW Forever - Warrior
 #subgroup Gnome route
@@ -270,6 +280,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warrior
 #group WoW Forever - Warrior
 #subgroup Gnome route
@@ -294,6 +305,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warrior
 #group WoW Forever - Warrior
 #subgroup Gnome route
@@ -318,6 +330,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warrior
 #group WoW Forever - Warrior
 #subgroup Gnome route
@@ -342,6 +355,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warrior
 #group WoW Forever - Warrior
 #subgroup Gnome route
@@ -366,6 +380,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warrior
 #group WoW Forever - Warrior
 #subgroup Gnome route
@@ -390,6 +405,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warrior
 #group WoW Forever - Warrior
 #subgroup Gnome route
@@ -414,6 +430,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warrior
 #group WoW Forever - Warrior
 #subgroup Gnome route
@@ -438,6 +455,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warrior
 #group WoW Forever - Warrior
 #subgroup Gnome route
@@ -463,6 +481,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Mage
 #group WoW Forever - Mage
 #subgroup Gnome route
@@ -491,6 +510,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Mage
 #group WoW Forever - Mage
 #subgroup Gnome route
@@ -522,6 +542,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Mage
 #group WoW Forever - Mage
 #subgroup Gnome route
@@ -551,6 +572,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Mage
 #group WoW Forever - Mage
 #subgroup Gnome route
@@ -575,6 +597,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Mage
 #group WoW Forever - Mage
 #subgroup Gnome route
@@ -604,6 +627,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Mage
 #group WoW Forever - Mage
 #subgroup Gnome route
@@ -628,6 +652,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Mage
 #group WoW Forever - Mage
 #subgroup Gnome route
@@ -652,6 +677,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Mage
 #group WoW Forever - Mage
 #subgroup Gnome route
@@ -676,6 +702,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Mage
 #group WoW Forever - Mage
 #subgroup Gnome route
@@ -703,6 +730,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Mage
 #group WoW Forever - Mage
 #subgroup Gnome route
@@ -727,6 +755,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Mage
 #group WoW Forever - Mage
 #subgroup Gnome route
@@ -751,6 +780,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Mage
 #group WoW Forever - Mage
 #subgroup Gnome route
@@ -775,6 +805,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Mage
 #group WoW Forever - Mage
 #subgroup Gnome route
@@ -799,6 +830,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Mage
 #group WoW Forever - Mage
 #subgroup Gnome route
@@ -823,6 +855,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Mage
 #group WoW Forever - Mage
 #subgroup Gnome route
@@ -847,6 +880,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Mage
 #group WoW Forever - Mage
 #subgroup Gnome route
@@ -871,6 +905,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Mage
 #group WoW Forever - Mage
 #subgroup Gnome route
@@ -895,6 +930,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Mage
 #group WoW Forever - Mage
 #subgroup Gnome route
@@ -920,6 +956,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Rogue
 #group WoW Forever - Rogue
 #subgroup Gnome route
@@ -948,6 +985,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Rogue
 #group WoW Forever - Rogue
 #subgroup Gnome route
@@ -979,6 +1017,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Rogue
 #group WoW Forever - Rogue
 #subgroup Gnome route
@@ -1008,6 +1047,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Rogue
 #group WoW Forever - Rogue
 #subgroup Gnome route
@@ -1032,6 +1072,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Rogue
 #group WoW Forever - Rogue
 #subgroup Gnome route
@@ -1061,6 +1102,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Rogue
 #group WoW Forever - Rogue
 #subgroup Gnome route
@@ -1087,6 +1129,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Rogue
 #group WoW Forever - Rogue
 #subgroup Gnome route
@@ -1111,6 +1154,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Rogue
 #group WoW Forever - Rogue
 #subgroup Gnome route
@@ -1135,6 +1179,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Rogue
 #group WoW Forever - Rogue
 #subgroup Gnome route
@@ -1162,6 +1207,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Rogue
 #group WoW Forever - Rogue
 #subgroup Gnome route
@@ -1186,6 +1232,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Rogue
 #group WoW Forever - Rogue
 #subgroup Gnome route
@@ -1210,6 +1257,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Rogue
 #group WoW Forever - Rogue
 #subgroup Gnome route
@@ -1234,6 +1282,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Rogue
 #group WoW Forever - Rogue
 #subgroup Gnome route
@@ -1258,6 +1307,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Rogue
 #group WoW Forever - Rogue
 #subgroup Gnome route
@@ -1282,6 +1332,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Rogue
 #group WoW Forever - Rogue
 #subgroup Gnome route
@@ -1306,6 +1357,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Rogue
 #group WoW Forever - Rogue
 #subgroup Gnome route
@@ -1330,6 +1382,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Rogue
 #group WoW Forever - Rogue
 #subgroup Gnome route
@@ -1354,6 +1407,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Rogue
 #group WoW Forever - Rogue
 #subgroup Gnome route
@@ -1379,6 +1433,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Priest
 #group WoW Forever - Priest
 #subgroup Gnome route
@@ -1407,6 +1462,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Priest
 #group WoW Forever - Priest
 #subgroup Gnome route
@@ -1438,6 +1494,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Priest
 #group WoW Forever - Priest
 #subgroup Gnome route
@@ -1467,6 +1524,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Priest
 #group WoW Forever - Priest
 #subgroup Gnome route
@@ -1491,6 +1549,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Priest
 #group WoW Forever - Priest
 #subgroup Gnome route
@@ -1520,6 +1579,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Priest
 #group WoW Forever - Priest
 #subgroup Gnome route
@@ -1544,6 +1604,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Priest
 #group WoW Forever - Priest
 #subgroup Gnome route
@@ -1568,6 +1629,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Priest
 #group WoW Forever - Priest
 #subgroup Gnome route
@@ -1592,6 +1654,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Priest
 #group WoW Forever - Priest
 #subgroup Gnome route
@@ -1619,6 +1682,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Priest
 #group WoW Forever - Priest
 #subgroup Gnome route
@@ -1643,6 +1707,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Priest
 #group WoW Forever - Priest
 #subgroup Gnome route
@@ -1667,6 +1732,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Priest
 #group WoW Forever - Priest
 #subgroup Gnome route
@@ -1691,6 +1757,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Priest
 #group WoW Forever - Priest
 #subgroup Gnome route
@@ -1715,6 +1782,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Priest
 #group WoW Forever - Priest
 #subgroup Gnome route
@@ -1739,6 +1807,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Priest
 #group WoW Forever - Priest
 #subgroup Gnome route
@@ -1763,6 +1832,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Priest
 #group WoW Forever - Priest
 #subgroup Gnome route
@@ -1787,6 +1857,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Priest
 #group WoW Forever - Priest
 #subgroup Gnome route
@@ -1811,6 +1882,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Priest
 #group WoW Forever - Priest
 #subgroup Gnome route
@@ -1836,6 +1908,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warlock
 #group WoW Forever - Warlock
 #subgroup Gnome route
@@ -1864,6 +1937,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warlock
 #group WoW Forever - Warlock
 #subgroup Gnome route
@@ -1895,6 +1969,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warlock
 #group WoW Forever - Warlock
 #subgroup Gnome route
@@ -1924,6 +1999,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warlock
 #group WoW Forever - Warlock
 #subgroup Gnome route
@@ -1948,6 +2024,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warlock
 #group WoW Forever - Warlock
 #subgroup Gnome route
@@ -1977,6 +2054,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warlock
 #group WoW Forever - Warlock
 #subgroup Gnome route
@@ -2001,6 +2079,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warlock
 #group WoW Forever - Warlock
 #subgroup Gnome route
@@ -2027,6 +2106,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warlock
 #group WoW Forever - Warlock
 #subgroup Gnome route
@@ -2051,6 +2131,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warlock
 #group WoW Forever - Warlock
 #subgroup Gnome route
@@ -2078,6 +2159,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warlock
 #group WoW Forever - Warlock
 #subgroup Gnome route
@@ -2102,6 +2184,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warlock
 #group WoW Forever - Warlock
 #subgroup Gnome route
@@ -2126,6 +2209,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warlock
 #group WoW Forever - Warlock
 #subgroup Gnome route
@@ -2150,6 +2234,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warlock
 #group WoW Forever - Warlock
 #subgroup Gnome route
@@ -2174,6 +2259,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warlock
 #group WoW Forever - Warlock
 #subgroup Gnome route
@@ -2198,6 +2284,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warlock
 #group WoW Forever - Warlock
 #subgroup Gnome route
@@ -2224,6 +2311,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warlock
 #group WoW Forever - Warlock
 #subgroup Gnome route
@@ -2248,6 +2336,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warlock
 #group WoW Forever - Warlock
 #subgroup Gnome route
@@ -2272,6 +2361,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warlock
 #group WoW Forever - Warlock
 #subgroup Gnome route

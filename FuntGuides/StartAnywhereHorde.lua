@@ -4,6 +4,7 @@ if WoWForeverGuide_UseEnglish then
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warrior
 #group WoW Forever - Warrior
 #subgroup Start in Durotar
@@ -34,6 +35,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warrior
 #group WoW Forever - Warrior
 #subgroup Start in Durotar
@@ -62,6 +64,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warrior
 #group WoW Forever - Warrior
 #subgroup Start in Durotar
@@ -89,6 +92,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warrior
 #group WoW Forever - Warrior
 #subgroup Start in Durotar
@@ -108,6 +112,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warrior
 #group WoW Forever - Warrior
 #subgroup Start in Durotar
@@ -129,6 +134,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warrior
 #group WoW Forever - Warrior
 #subgroup Start in Durotar
@@ -151,6 +157,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warrior
 #group WoW Forever - Warrior
 #subgroup Start in Durotar
@@ -176,6 +183,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warrior
 #group WoW Forever - Warrior
 #subgroup Start in Durotar
@@ -200,6 +208,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warrior
 #group WoW Forever - Warrior
 #subgroup Start in Durotar
@@ -219,6 +228,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warrior
 #group WoW Forever - Warrior
 #subgroup Start in Durotar
@@ -241,6 +251,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warrior
 #group WoW Forever - Warrior
 #subgroup Start in Durotar
@@ -260,6 +271,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warrior
 #group WoW Forever - Warrior
 #subgroup Start in Durotar
@@ -281,6 +293,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warrior
 #group WoW Forever - Warrior
 #subgroup Start in Durotar
@@ -300,6 +313,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warrior
 #group WoW Forever - Warrior
 #subgroup Start in Durotar
@@ -319,6 +333,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warrior
 #group WoW Forever - Warrior
 #subgroup Start in Durotar
@@ -338,6 +353,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warrior
 #group WoW Forever - Warrior
 #subgroup Start in Durotar
@@ -357,6 +373,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warrior
 #group WoW Forever - Warrior
 #subgroup Start in Durotar
@@ -376,6 +393,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warrior
 #group WoW Forever - Warrior
 #subgroup Start in Durotar
@@ -396,6 +414,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Paladin
 #group WoW Forever - Paladin
 #subgroup Start in Durotar
@@ -426,6 +445,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Paladin
 #group WoW Forever - Paladin
 #subgroup Start in Durotar
@@ -454,6 +474,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Paladin
 #group WoW Forever - Paladin
 #subgroup Start in Durotar
@@ -483,6 +504,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Paladin
 #group WoW Forever - Paladin
 #subgroup Start in Durotar
@@ -502,6 +524,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Paladin
 #group WoW Forever - Paladin
 #subgroup Start in Durotar
@@ -523,6 +546,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Paladin
 #group WoW Forever - Paladin
 #subgroup Start in Durotar
@@ -545,6 +569,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Paladin
 #group WoW Forever - Paladin
 #subgroup Start in Durotar
@@ -570,6 +595,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Paladin
 #group WoW Forever - Paladin
 #subgroup Start in Durotar
@@ -592,6 +618,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Paladin
 #group WoW Forever - Paladin
 #subgroup Start in Durotar
@@ -611,6 +638,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Paladin
 #group WoW Forever - Paladin
 #subgroup Start in Durotar
@@ -633,6 +661,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Paladin
 #group WoW Forever - Paladin
 #subgroup Start in Durotar
@@ -652,6 +681,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Paladin
 #group WoW Forever - Paladin
 #subgroup Start in Durotar
@@ -673,6 +703,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Paladin
 #group WoW Forever - Paladin
 #subgroup Start in Durotar
@@ -692,6 +723,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Paladin
 #group WoW Forever - Paladin
 #subgroup Start in Durotar
@@ -711,6 +743,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Paladin
 #group WoW Forever - Paladin
 #subgroup Start in Durotar
@@ -730,6 +763,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Paladin
 #group WoW Forever - Paladin
 #subgroup Start in Durotar
@@ -749,6 +783,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Paladin
 #group WoW Forever - Paladin
 #subgroup Start in Durotar
@@ -768,6 +803,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Paladin
 #group WoW Forever - Paladin
 #subgroup Start in Durotar
@@ -790,6 +826,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Hunter
 #group WoW Forever - Hunter
 #subgroup Start in Durotar
@@ -820,6 +857,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Hunter
 #group WoW Forever - Hunter
 #subgroup Start in Durotar
@@ -848,6 +886,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Hunter
 #group WoW Forever - Hunter
 #subgroup Start in Durotar
@@ -875,6 +914,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Hunter
 #group WoW Forever - Hunter
 #subgroup Start in Durotar
@@ -894,6 +934,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Hunter
 #group WoW Forever - Hunter
 #subgroup Start in Durotar
@@ -915,6 +956,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Hunter
 #group WoW Forever - Hunter
 #subgroup Start in Durotar
@@ -937,6 +979,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Hunter
 #group WoW Forever - Hunter
 #subgroup Start in Durotar
@@ -962,6 +1005,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Hunter
 #group WoW Forever - Hunter
 #subgroup Start in Durotar
@@ -986,6 +1030,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Hunter
 #group WoW Forever - Hunter
 #subgroup Start in Durotar
@@ -1005,6 +1050,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Hunter
 #group WoW Forever - Hunter
 #subgroup Start in Durotar
@@ -1027,6 +1073,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Hunter
 #group WoW Forever - Hunter
 #subgroup Start in Durotar
@@ -1046,6 +1093,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Hunter
 #group WoW Forever - Hunter
 #subgroup Start in Durotar
@@ -1067,6 +1115,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Hunter
 #group WoW Forever - Hunter
 #subgroup Start in Durotar
@@ -1086,6 +1135,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Hunter
 #group WoW Forever - Hunter
 #subgroup Start in Durotar
@@ -1105,6 +1155,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Hunter
 #group WoW Forever - Hunter
 #subgroup Start in Durotar
@@ -1124,6 +1175,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Hunter
 #group WoW Forever - Hunter
 #subgroup Start in Durotar
@@ -1143,6 +1195,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Hunter
 #group WoW Forever - Hunter
 #subgroup Start in Durotar
@@ -1162,6 +1215,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Hunter
 #group WoW Forever - Hunter
 #subgroup Start in Durotar
@@ -1182,6 +1236,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Rogue
 #group WoW Forever - Rogue
 #subgroup Start in Durotar
@@ -1212,6 +1267,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Rogue
 #group WoW Forever - Rogue
 #subgroup Start in Durotar
@@ -1240,6 +1296,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Rogue
 #group WoW Forever - Rogue
 #subgroup Start in Durotar
@@ -1267,6 +1324,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Rogue
 #group WoW Forever - Rogue
 #subgroup Start in Durotar
@@ -1286,6 +1344,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Rogue
 #group WoW Forever - Rogue
 #subgroup Start in Durotar
@@ -1307,6 +1366,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Rogue
 #group WoW Forever - Rogue
 #subgroup Start in Durotar
@@ -1329,6 +1389,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Rogue
 #group WoW Forever - Rogue
 #subgroup Start in Durotar
@@ -1356,6 +1417,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Rogue
 #group WoW Forever - Rogue
 #subgroup Start in Durotar
@@ -1378,6 +1440,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Rogue
 #group WoW Forever - Rogue
 #subgroup Start in Durotar
@@ -1397,6 +1460,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Rogue
 #group WoW Forever - Rogue
 #subgroup Start in Durotar
@@ -1419,6 +1483,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Rogue
 #group WoW Forever - Rogue
 #subgroup Start in Durotar
@@ -1438,6 +1503,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Rogue
 #group WoW Forever - Rogue
 #subgroup Start in Durotar
@@ -1459,6 +1525,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Rogue
 #group WoW Forever - Rogue
 #subgroup Start in Durotar
@@ -1478,6 +1545,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Rogue
 #group WoW Forever - Rogue
 #subgroup Start in Durotar
@@ -1497,6 +1565,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Rogue
 #group WoW Forever - Rogue
 #subgroup Start in Durotar
@@ -1516,6 +1585,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Rogue
 #group WoW Forever - Rogue
 #subgroup Start in Durotar
@@ -1535,6 +1605,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Rogue
 #group WoW Forever - Rogue
 #subgroup Start in Durotar
@@ -1554,6 +1625,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Rogue
 #group WoW Forever - Rogue
 #subgroup Start in Durotar
@@ -1574,6 +1646,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Priest
 #group WoW Forever - Priest
 #subgroup Start in Durotar
@@ -1604,6 +1677,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Priest
 #group WoW Forever - Priest
 #subgroup Start in Durotar
@@ -1632,6 +1706,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Priest
 #group WoW Forever - Priest
 #subgroup Start in Durotar
@@ -1659,6 +1734,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Priest
 #group WoW Forever - Priest
 #subgroup Start in Durotar
@@ -1678,6 +1754,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Priest
 #group WoW Forever - Priest
 #subgroup Start in Durotar
@@ -1699,6 +1776,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Priest
 #group WoW Forever - Priest
 #subgroup Start in Durotar
@@ -1721,6 +1799,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Priest
 #group WoW Forever - Priest
 #subgroup Start in Durotar
@@ -1746,6 +1825,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Priest
 #group WoW Forever - Priest
 #subgroup Start in Durotar
@@ -1768,6 +1848,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Priest
 #group WoW Forever - Priest
 #subgroup Start in Durotar
@@ -1787,6 +1868,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Priest
 #group WoW Forever - Priest
 #subgroup Start in Durotar
@@ -1809,6 +1891,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Priest
 #group WoW Forever - Priest
 #subgroup Start in Durotar
@@ -1828,6 +1911,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Priest
 #group WoW Forever - Priest
 #subgroup Start in Durotar
@@ -1849,6 +1933,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Priest
 #group WoW Forever - Priest
 #subgroup Start in Durotar
@@ -1868,6 +1953,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Priest
 #group WoW Forever - Priest
 #subgroup Start in Durotar
@@ -1887,6 +1973,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Priest
 #group WoW Forever - Priest
 #subgroup Start in Durotar
@@ -1906,6 +1993,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Priest
 #group WoW Forever - Priest
 #subgroup Start in Durotar
@@ -1925,6 +2013,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Priest
 #group WoW Forever - Priest
 #subgroup Start in Durotar
@@ -1944,6 +2033,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Priest
 #group WoW Forever - Priest
 #subgroup Start in Durotar
@@ -1964,6 +2054,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Mage
 #group WoW Forever - Mage
 #subgroup Start in Durotar
@@ -1994,6 +2085,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Mage
 #group WoW Forever - Mage
 #subgroup Start in Durotar
@@ -2022,6 +2114,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Mage
 #group WoW Forever - Mage
 #subgroup Start in Durotar
@@ -2049,6 +2142,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Mage
 #group WoW Forever - Mage
 #subgroup Start in Durotar
@@ -2068,6 +2162,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Mage
 #group WoW Forever - Mage
 #subgroup Start in Durotar
@@ -2089,6 +2184,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Mage
 #group WoW Forever - Mage
 #subgroup Start in Durotar
@@ -2111,6 +2207,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Mage
 #group WoW Forever - Mage
 #subgroup Start in Durotar
@@ -2136,6 +2233,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Mage
 #group WoW Forever - Mage
 #subgroup Start in Durotar
@@ -2158,6 +2256,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Mage
 #group WoW Forever - Mage
 #subgroup Start in Durotar
@@ -2177,6 +2276,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Mage
 #group WoW Forever - Mage
 #subgroup Start in Durotar
@@ -2199,6 +2299,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Mage
 #group WoW Forever - Mage
 #subgroup Start in Durotar
@@ -2218,6 +2319,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Mage
 #group WoW Forever - Mage
 #subgroup Start in Durotar
@@ -2239,6 +2341,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Mage
 #group WoW Forever - Mage
 #subgroup Start in Durotar
@@ -2258,6 +2361,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Mage
 #group WoW Forever - Mage
 #subgroup Start in Durotar
@@ -2277,6 +2381,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Mage
 #group WoW Forever - Mage
 #subgroup Start in Durotar
@@ -2296,6 +2401,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Mage
 #group WoW Forever - Mage
 #subgroup Start in Durotar
@@ -2315,6 +2421,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Mage
 #group WoW Forever - Mage
 #subgroup Start in Durotar
@@ -2334,6 +2441,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Mage
 #group WoW Forever - Mage
 #subgroup Start in Durotar
@@ -2354,6 +2462,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warlock
 #group WoW Forever - Warlock
 #subgroup Start in Durotar
@@ -2384,6 +2493,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warlock
 #group WoW Forever - Warlock
 #subgroup Start in Durotar
@@ -2412,6 +2522,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warlock
 #group WoW Forever - Warlock
 #subgroup Start in Durotar
@@ -2439,6 +2550,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warlock
 #group WoW Forever - Warlock
 #subgroup Start in Durotar
@@ -2458,6 +2570,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warlock
 #group WoW Forever - Warlock
 #subgroup Start in Durotar
@@ -2479,6 +2592,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warlock
 #group WoW Forever - Warlock
 #subgroup Start in Durotar
@@ -2501,6 +2615,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warlock
 #group WoW Forever - Warlock
 #subgroup Start in Durotar
@@ -2526,6 +2641,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warlock
 #group WoW Forever - Warlock
 #subgroup Start in Durotar
@@ -2550,6 +2666,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warlock
 #group WoW Forever - Warlock
 #subgroup Start in Durotar
@@ -2569,6 +2686,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warlock
 #group WoW Forever - Warlock
 #subgroup Start in Durotar
@@ -2591,6 +2709,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warlock
 #group WoW Forever - Warlock
 #subgroup Start in Durotar
@@ -2610,6 +2729,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warlock
 #group WoW Forever - Warlock
 #subgroup Start in Durotar
@@ -2631,6 +2751,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warlock
 #group WoW Forever - Warlock
 #subgroup Start in Durotar
@@ -2650,6 +2771,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warlock
 #group WoW Forever - Warlock
 #subgroup Start in Durotar
@@ -2669,6 +2791,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warlock
 #group WoW Forever - Warlock
 #subgroup Start in Durotar
@@ -2690,6 +2813,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warlock
 #group WoW Forever - Warlock
 #subgroup Start in Durotar
@@ -2709,6 +2833,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warlock
 #group WoW Forever - Warlock
 #subgroup Start in Durotar
@@ -2728,6 +2853,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warlock
 #group WoW Forever - Warlock
 #subgroup Start in Durotar
@@ -2748,6 +2874,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Shaman
 #group WoW Forever - Shaman
 #subgroup Start in Durotar
@@ -2778,6 +2905,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Shaman
 #group WoW Forever - Shaman
 #subgroup Start in Durotar
@@ -2808,6 +2936,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Shaman
 #group WoW Forever - Shaman
 #subgroup Start in Durotar
@@ -2835,6 +2964,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Shaman
 #group WoW Forever - Shaman
 #subgroup Start in Durotar
@@ -2854,6 +2984,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Shaman
 #group WoW Forever - Shaman
 #subgroup Start in Durotar
@@ -2875,6 +3006,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Shaman
 #group WoW Forever - Shaman
 #subgroup Start in Durotar
@@ -2897,6 +3029,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Shaman
 #group WoW Forever - Shaman
 #subgroup Start in Durotar
@@ -2922,6 +3055,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Shaman
 #group WoW Forever - Shaman
 #subgroup Start in Durotar
@@ -2946,6 +3080,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Shaman
 #group WoW Forever - Shaman
 #subgroup Start in Durotar
@@ -2965,6 +3100,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Shaman
 #group WoW Forever - Shaman
 #subgroup Start in Durotar
@@ -2987,6 +3123,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Shaman
 #group WoW Forever - Shaman
 #subgroup Start in Durotar
@@ -3006,6 +3143,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Shaman
 #group WoW Forever - Shaman
 #subgroup Start in Durotar
@@ -3027,6 +3165,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Shaman
 #group WoW Forever - Shaman
 #subgroup Start in Durotar
@@ -3046,6 +3185,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Shaman
 #group WoW Forever - Shaman
 #subgroup Start in Durotar
@@ -3065,6 +3205,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Shaman
 #group WoW Forever - Shaman
 #subgroup Start in Durotar
@@ -3084,6 +3225,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Shaman
 #group WoW Forever - Shaman
 #subgroup Start in Durotar
@@ -3103,6 +3245,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Shaman
 #group WoW Forever - Shaman
 #subgroup Start in Durotar
@@ -3122,6 +3265,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Shaman
 #group WoW Forever - Shaman
 #subgroup Start in Durotar
@@ -3142,6 +3286,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Druid
 #group WoW Forever - Druid
 #subgroup Start in Durotar
@@ -3172,6 +3317,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Druid
 #group WoW Forever - Druid
 #subgroup Start in Durotar
@@ -3200,6 +3346,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Druid
 #group WoW Forever - Druid
 #subgroup Start in Durotar
@@ -3227,6 +3374,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Druid
 #group WoW Forever - Druid
 #subgroup Start in Durotar
@@ -3248,6 +3396,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Druid
 #group WoW Forever - Druid
 #subgroup Start in Durotar
@@ -3269,6 +3418,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Druid
 #group WoW Forever - Druid
 #subgroup Start in Durotar
@@ -3291,6 +3441,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Druid
 #group WoW Forever - Druid
 #subgroup Start in Durotar
@@ -3316,6 +3467,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Druid
 #group WoW Forever - Druid
 #subgroup Start in Durotar
@@ -3340,6 +3492,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Druid
 #group WoW Forever - Druid
 #subgroup Start in Durotar
@@ -3359,6 +3512,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Druid
 #group WoW Forever - Druid
 #subgroup Start in Durotar
@@ -3381,6 +3535,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Druid
 #group WoW Forever - Druid
 #subgroup Start in Durotar
@@ -3400,6 +3555,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Druid
 #group WoW Forever - Druid
 #subgroup Start in Durotar
@@ -3421,6 +3577,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Druid
 #group WoW Forever - Druid
 #subgroup Start in Durotar
@@ -3440,6 +3597,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Druid
 #group WoW Forever - Druid
 #subgroup Start in Durotar
@@ -3459,6 +3617,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Druid
 #group WoW Forever - Druid
 #subgroup Start in Durotar
@@ -3478,6 +3637,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Druid
 #group WoW Forever - Druid
 #subgroup Start in Durotar
@@ -3497,6 +3657,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Druid
 #group WoW Forever - Druid
 #subgroup Start in Durotar
@@ -3516,6 +3677,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Druid
 #group WoW Forever - Druid
 #subgroup Start in Durotar
@@ -3536,6 +3698,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warrior
 #group WoW Forever - Warrior
 #subgroup Start in Tirisfal Glades
@@ -3566,6 +3729,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warrior
 #group WoW Forever - Warrior
 #subgroup Start in Tirisfal Glades
@@ -3591,6 +3755,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warrior
 #group WoW Forever - Warrior
 #subgroup Start in Tirisfal Glades
@@ -3615,6 +3780,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warrior
 #group WoW Forever - Warrior
 #subgroup Start in Tirisfal Glades
@@ -3640,6 +3806,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warrior
 #group WoW Forever - Warrior
 #subgroup Start in Tirisfal Glades
@@ -3659,6 +3826,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warrior
 #group WoW Forever - Warrior
 #subgroup Start in Tirisfal Glades
@@ -3680,6 +3848,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warrior
 #group WoW Forever - Warrior
 #subgroup Start in Tirisfal Glades
@@ -3702,6 +3871,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warrior
 #group WoW Forever - Warrior
 #subgroup Start in Tirisfal Glades
@@ -3727,6 +3897,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warrior
 #group WoW Forever - Warrior
 #subgroup Start in Tirisfal Glades
@@ -3751,6 +3922,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warrior
 #group WoW Forever - Warrior
 #subgroup Start in Tirisfal Glades
@@ -3770,6 +3942,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warrior
 #group WoW Forever - Warrior
 #subgroup Start in Tirisfal Glades
@@ -3792,6 +3965,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warrior
 #group WoW Forever - Warrior
 #subgroup Start in Tirisfal Glades
@@ -3811,6 +3985,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warrior
 #group WoW Forever - Warrior
 #subgroup Start in Tirisfal Glades
@@ -3832,6 +4007,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warrior
 #group WoW Forever - Warrior
 #subgroup Start in Tirisfal Glades
@@ -3851,6 +4027,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warrior
 #group WoW Forever - Warrior
 #subgroup Start in Tirisfal Glades
@@ -3870,6 +4047,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warrior
 #group WoW Forever - Warrior
 #subgroup Start in Tirisfal Glades
@@ -3889,6 +4067,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warrior
 #group WoW Forever - Warrior
 #subgroup Start in Tirisfal Glades
@@ -3908,6 +4087,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warrior
 #group WoW Forever - Warrior
 #subgroup Start in Tirisfal Glades
@@ -3927,6 +4107,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warrior
 #group WoW Forever - Warrior
 #subgroup Start in Tirisfal Glades
@@ -3947,6 +4128,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Paladin
 #group WoW Forever - Paladin
 #subgroup Start in Tirisfal Glades
@@ -3977,6 +4159,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Paladin
 #group WoW Forever - Paladin
 #subgroup Start in Tirisfal Glades
@@ -4002,6 +4185,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Paladin
 #group WoW Forever - Paladin
 #subgroup Start in Tirisfal Glades
@@ -4026,6 +4210,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Paladin
 #group WoW Forever - Paladin
 #subgroup Start in Tirisfal Glades
@@ -4053,6 +4238,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Paladin
 #group WoW Forever - Paladin
 #subgroup Start in Tirisfal Glades
@@ -4072,6 +4258,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Paladin
 #group WoW Forever - Paladin
 #subgroup Start in Tirisfal Glades
@@ -4093,6 +4280,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Paladin
 #group WoW Forever - Paladin
 #subgroup Start in Tirisfal Glades
@@ -4115,6 +4303,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Paladin
 #group WoW Forever - Paladin
 #subgroup Start in Tirisfal Glades
@@ -4140,6 +4329,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Paladin
 #group WoW Forever - Paladin
 #subgroup Start in Tirisfal Glades
@@ -4162,6 +4352,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Paladin
 #group WoW Forever - Paladin
 #subgroup Start in Tirisfal Glades
@@ -4181,6 +4372,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Paladin
 #group WoW Forever - Paladin
 #subgroup Start in Tirisfal Glades
@@ -4203,6 +4395,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Paladin
 #group WoW Forever - Paladin
 #subgroup Start in Tirisfal Glades
@@ -4222,6 +4415,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Paladin
 #group WoW Forever - Paladin
 #subgroup Start in Tirisfal Glades
@@ -4243,6 +4437,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Paladin
 #group WoW Forever - Paladin
 #subgroup Start in Tirisfal Glades
@@ -4262,6 +4457,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Paladin
 #group WoW Forever - Paladin
 #subgroup Start in Tirisfal Glades
@@ -4281,6 +4477,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Paladin
 #group WoW Forever - Paladin
 #subgroup Start in Tirisfal Glades
@@ -4300,6 +4497,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Paladin
 #group WoW Forever - Paladin
 #subgroup Start in Tirisfal Glades
@@ -4319,6 +4517,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Paladin
 #group WoW Forever - Paladin
 #subgroup Start in Tirisfal Glades
@@ -4338,6 +4537,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Paladin
 #group WoW Forever - Paladin
 #subgroup Start in Tirisfal Glades
@@ -4360,6 +4560,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Hunter
 #group WoW Forever - Hunter
 #subgroup Start in Tirisfal Glades
@@ -4390,6 +4591,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Hunter
 #group WoW Forever - Hunter
 #subgroup Start in Tirisfal Glades
@@ -4415,6 +4617,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Hunter
 #group WoW Forever - Hunter
 #subgroup Start in Tirisfal Glades
@@ -4439,6 +4642,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Hunter
 #group WoW Forever - Hunter
 #subgroup Start in Tirisfal Glades
@@ -4464,6 +4668,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Hunter
 #group WoW Forever - Hunter
 #subgroup Start in Tirisfal Glades
@@ -4483,6 +4688,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Hunter
 #group WoW Forever - Hunter
 #subgroup Start in Tirisfal Glades
@@ -4504,6 +4710,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Hunter
 #group WoW Forever - Hunter
 #subgroup Start in Tirisfal Glades
@@ -4526,6 +4733,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Hunter
 #group WoW Forever - Hunter
 #subgroup Start in Tirisfal Glades
@@ -4551,6 +4759,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Hunter
 #group WoW Forever - Hunter
 #subgroup Start in Tirisfal Glades
@@ -4575,6 +4784,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Hunter
 #group WoW Forever - Hunter
 #subgroup Start in Tirisfal Glades
@@ -4594,6 +4804,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Hunter
 #group WoW Forever - Hunter
 #subgroup Start in Tirisfal Glades
@@ -4616,6 +4827,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Hunter
 #group WoW Forever - Hunter
 #subgroup Start in Tirisfal Glades
@@ -4635,6 +4847,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Hunter
 #group WoW Forever - Hunter
 #subgroup Start in Tirisfal Glades
@@ -4656,6 +4869,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Hunter
 #group WoW Forever - Hunter
 #subgroup Start in Tirisfal Glades
@@ -4675,6 +4889,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Hunter
 #group WoW Forever - Hunter
 #subgroup Start in Tirisfal Glades
@@ -4694,6 +4909,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Hunter
 #group WoW Forever - Hunter
 #subgroup Start in Tirisfal Glades
@@ -4713,6 +4929,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Hunter
 #group WoW Forever - Hunter
 #subgroup Start in Tirisfal Glades
@@ -4732,6 +4949,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Hunter
 #group WoW Forever - Hunter
 #subgroup Start in Tirisfal Glades
@@ -4751,6 +4969,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Hunter
 #group WoW Forever - Hunter
 #subgroup Start in Tirisfal Glades
@@ -4771,6 +4990,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Rogue
 #group WoW Forever - Rogue
 #subgroup Start in Tirisfal Glades
@@ -4801,6 +5021,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Rogue
 #group WoW Forever - Rogue
 #subgroup Start in Tirisfal Glades
@@ -4826,6 +5047,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Rogue
 #group WoW Forever - Rogue
 #subgroup Start in Tirisfal Glades
@@ -4850,6 +5072,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Rogue
 #group WoW Forever - Rogue
 #subgroup Start in Tirisfal Glades
@@ -4875,6 +5098,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Rogue
 #group WoW Forever - Rogue
 #subgroup Start in Tirisfal Glades
@@ -4894,6 +5118,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Rogue
 #group WoW Forever - Rogue
 #subgroup Start in Tirisfal Glades
@@ -4915,6 +5140,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Rogue
 #group WoW Forever - Rogue
 #subgroup Start in Tirisfal Glades
@@ -4937,6 +5163,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Rogue
 #group WoW Forever - Rogue
 #subgroup Start in Tirisfal Glades
@@ -4964,6 +5191,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Rogue
 #group WoW Forever - Rogue
 #subgroup Start in Tirisfal Glades
@@ -4986,6 +5214,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Rogue
 #group WoW Forever - Rogue
 #subgroup Start in Tirisfal Glades
@@ -5005,6 +5234,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Rogue
 #group WoW Forever - Rogue
 #subgroup Start in Tirisfal Glades
@@ -5027,6 +5257,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Rogue
 #group WoW Forever - Rogue
 #subgroup Start in Tirisfal Glades
@@ -5046,6 +5277,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Rogue
 #group WoW Forever - Rogue
 #subgroup Start in Tirisfal Glades
@@ -5067,6 +5299,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Rogue
 #group WoW Forever - Rogue
 #subgroup Start in Tirisfal Glades
@@ -5086,6 +5319,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Rogue
 #group WoW Forever - Rogue
 #subgroup Start in Tirisfal Glades
@@ -5105,6 +5339,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Rogue
 #group WoW Forever - Rogue
 #subgroup Start in Tirisfal Glades
@@ -5124,6 +5359,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Rogue
 #group WoW Forever - Rogue
 #subgroup Start in Tirisfal Glades
@@ -5143,6 +5379,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Rogue
 #group WoW Forever - Rogue
 #subgroup Start in Tirisfal Glades
@@ -5162,6 +5399,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Rogue
 #group WoW Forever - Rogue
 #subgroup Start in Tirisfal Glades
@@ -5182,6 +5420,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Priest
 #group WoW Forever - Priest
 #subgroup Start in Tirisfal Glades
@@ -5212,6 +5451,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Priest
 #group WoW Forever - Priest
 #subgroup Start in Tirisfal Glades
@@ -5237,6 +5477,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Priest
 #group WoW Forever - Priest
 #subgroup Start in Tirisfal Glades
@@ -5261,6 +5502,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Priest
 #group WoW Forever - Priest
 #subgroup Start in Tirisfal Glades
@@ -5286,6 +5528,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Priest
 #group WoW Forever - Priest
 #subgroup Start in Tirisfal Glades
@@ -5305,6 +5548,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Priest
 #group WoW Forever - Priest
 #subgroup Start in Tirisfal Glades
@@ -5326,6 +5570,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Priest
 #group WoW Forever - Priest
 #subgroup Start in Tirisfal Glades
@@ -5348,6 +5593,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Priest
 #group WoW Forever - Priest
 #subgroup Start in Tirisfal Glades
@@ -5373,6 +5619,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Priest
 #group WoW Forever - Priest
 #subgroup Start in Tirisfal Glades
@@ -5395,6 +5642,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Priest
 #group WoW Forever - Priest
 #subgroup Start in Tirisfal Glades
@@ -5414,6 +5662,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Priest
 #group WoW Forever - Priest
 #subgroup Start in Tirisfal Glades
@@ -5436,6 +5685,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Priest
 #group WoW Forever - Priest
 #subgroup Start in Tirisfal Glades
@@ -5455,6 +5705,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Priest
 #group WoW Forever - Priest
 #subgroup Start in Tirisfal Glades
@@ -5476,6 +5727,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Priest
 #group WoW Forever - Priest
 #subgroup Start in Tirisfal Glades
@@ -5495,6 +5747,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Priest
 #group WoW Forever - Priest
 #subgroup Start in Tirisfal Glades
@@ -5514,6 +5767,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Priest
 #group WoW Forever - Priest
 #subgroup Start in Tirisfal Glades
@@ -5533,6 +5787,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Priest
 #group WoW Forever - Priest
 #subgroup Start in Tirisfal Glades
@@ -5552,6 +5807,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Priest
 #group WoW Forever - Priest
 #subgroup Start in Tirisfal Glades
@@ -5571,6 +5827,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Priest
 #group WoW Forever - Priest
 #subgroup Start in Tirisfal Glades
@@ -5591,6 +5848,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Mage
 #group WoW Forever - Mage
 #subgroup Start in Tirisfal Glades
@@ -5621,6 +5879,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Mage
 #group WoW Forever - Mage
 #subgroup Start in Tirisfal Glades
@@ -5646,6 +5905,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Mage
 #group WoW Forever - Mage
 #subgroup Start in Tirisfal Glades
@@ -5670,6 +5930,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Mage
 #group WoW Forever - Mage
 #subgroup Start in Tirisfal Glades
@@ -5695,6 +5956,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Mage
 #group WoW Forever - Mage
 #subgroup Start in Tirisfal Glades
@@ -5714,6 +5976,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Mage
 #group WoW Forever - Mage
 #subgroup Start in Tirisfal Glades
@@ -5735,6 +5998,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Mage
 #group WoW Forever - Mage
 #subgroup Start in Tirisfal Glades
@@ -5757,6 +6021,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Mage
 #group WoW Forever - Mage
 #subgroup Start in Tirisfal Glades
@@ -5782,6 +6047,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Mage
 #group WoW Forever - Mage
 #subgroup Start in Tirisfal Glades
@@ -5804,6 +6070,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Mage
 #group WoW Forever - Mage
 #subgroup Start in Tirisfal Glades
@@ -5823,6 +6090,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Mage
 #group WoW Forever - Mage
 #subgroup Start in Tirisfal Glades
@@ -5845,6 +6113,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Mage
 #group WoW Forever - Mage
 #subgroup Start in Tirisfal Glades
@@ -5864,6 +6133,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Mage
 #group WoW Forever - Mage
 #subgroup Start in Tirisfal Glades
@@ -5885,6 +6155,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Mage
 #group WoW Forever - Mage
 #subgroup Start in Tirisfal Glades
@@ -5904,6 +6175,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Mage
 #group WoW Forever - Mage
 #subgroup Start in Tirisfal Glades
@@ -5923,6 +6195,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Mage
 #group WoW Forever - Mage
 #subgroup Start in Tirisfal Glades
@@ -5942,6 +6215,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Mage
 #group WoW Forever - Mage
 #subgroup Start in Tirisfal Glades
@@ -5961,6 +6235,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Mage
 #group WoW Forever - Mage
 #subgroup Start in Tirisfal Glades
@@ -5980,6 +6255,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Mage
 #group WoW Forever - Mage
 #subgroup Start in Tirisfal Glades
@@ -6000,6 +6276,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warlock
 #group WoW Forever - Warlock
 #subgroup Start in Tirisfal Glades
@@ -6030,6 +6307,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warlock
 #group WoW Forever - Warlock
 #subgroup Start in Tirisfal Glades
@@ -6055,6 +6333,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warlock
 #group WoW Forever - Warlock
 #subgroup Start in Tirisfal Glades
@@ -6079,6 +6358,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warlock
 #group WoW Forever - Warlock
 #subgroup Start in Tirisfal Glades
@@ -6104,6 +6384,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warlock
 #group WoW Forever - Warlock
 #subgroup Start in Tirisfal Glades
@@ -6123,6 +6404,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warlock
 #group WoW Forever - Warlock
 #subgroup Start in Tirisfal Glades
@@ -6144,6 +6426,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warlock
 #group WoW Forever - Warlock
 #subgroup Start in Tirisfal Glades
@@ -6166,6 +6449,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warlock
 #group WoW Forever - Warlock
 #subgroup Start in Tirisfal Glades
@@ -6191,6 +6475,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warlock
 #group WoW Forever - Warlock
 #subgroup Start in Tirisfal Glades
@@ -6215,6 +6500,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warlock
 #group WoW Forever - Warlock
 #subgroup Start in Tirisfal Glades
@@ -6234,6 +6520,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warlock
 #group WoW Forever - Warlock
 #subgroup Start in Tirisfal Glades
@@ -6256,6 +6543,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warlock
 #group WoW Forever - Warlock
 #subgroup Start in Tirisfal Glades
@@ -6275,6 +6563,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warlock
 #group WoW Forever - Warlock
 #subgroup Start in Tirisfal Glades
@@ -6296,6 +6585,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warlock
 #group WoW Forever - Warlock
 #subgroup Start in Tirisfal Glades
@@ -6315,6 +6605,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warlock
 #group WoW Forever - Warlock
 #subgroup Start in Tirisfal Glades
@@ -6334,6 +6625,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warlock
 #group WoW Forever - Warlock
 #subgroup Start in Tirisfal Glades
@@ -6355,6 +6647,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warlock
 #group WoW Forever - Warlock
 #subgroup Start in Tirisfal Glades
@@ -6374,6 +6667,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warlock
 #group WoW Forever - Warlock
 #subgroup Start in Tirisfal Glades
@@ -6393,6 +6687,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warlock
 #group WoW Forever - Warlock
 #subgroup Start in Tirisfal Glades
@@ -6413,6 +6708,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Shaman
 #group WoW Forever - Shaman
 #subgroup Start in Tirisfal Glades
@@ -6443,6 +6739,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Shaman
 #group WoW Forever - Shaman
 #subgroup Start in Tirisfal Glades
@@ -6470,6 +6767,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Shaman
 #group WoW Forever - Shaman
 #subgroup Start in Tirisfal Glades
@@ -6494,6 +6792,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Shaman
 #group WoW Forever - Shaman
 #subgroup Start in Tirisfal Glades
@@ -6519,6 +6818,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Shaman
 #group WoW Forever - Shaman
 #subgroup Start in Tirisfal Glades
@@ -6538,6 +6838,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Shaman
 #group WoW Forever - Shaman
 #subgroup Start in Tirisfal Glades
@@ -6559,6 +6860,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Shaman
 #group WoW Forever - Shaman
 #subgroup Start in Tirisfal Glades
@@ -6581,6 +6883,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Shaman
 #group WoW Forever - Shaman
 #subgroup Start in Tirisfal Glades
@@ -6606,6 +6909,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Shaman
 #group WoW Forever - Shaman
 #subgroup Start in Tirisfal Glades
@@ -6630,6 +6934,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Shaman
 #group WoW Forever - Shaman
 #subgroup Start in Tirisfal Glades
@@ -6649,6 +6954,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Shaman
 #group WoW Forever - Shaman
 #subgroup Start in Tirisfal Glades
@@ -6671,6 +6977,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Shaman
 #group WoW Forever - Shaman
 #subgroup Start in Tirisfal Glades
@@ -6690,6 +6997,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Shaman
 #group WoW Forever - Shaman
 #subgroup Start in Tirisfal Glades
@@ -6711,6 +7019,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Shaman
 #group WoW Forever - Shaman
 #subgroup Start in Tirisfal Glades
@@ -6730,6 +7039,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Shaman
 #group WoW Forever - Shaman
 #subgroup Start in Tirisfal Glades
@@ -6749,6 +7059,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Shaman
 #group WoW Forever - Shaman
 #subgroup Start in Tirisfal Glades
@@ -6768,6 +7079,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Shaman
 #group WoW Forever - Shaman
 #subgroup Start in Tirisfal Glades
@@ -6787,6 +7099,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Shaman
 #group WoW Forever - Shaman
 #subgroup Start in Tirisfal Glades
@@ -6806,6 +7119,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Shaman
 #group WoW Forever - Shaman
 #subgroup Start in Tirisfal Glades
@@ -6826,6 +7140,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Druid
 #group WoW Forever - Druid
 #subgroup Start in Tirisfal Glades
@@ -6856,6 +7171,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Druid
 #group WoW Forever - Druid
 #subgroup Start in Tirisfal Glades
@@ -6881,6 +7197,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Druid
 #group WoW Forever - Druid
 #subgroup Start in Tirisfal Glades
@@ -6905,6 +7222,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Druid
 #group WoW Forever - Druid
 #subgroup Start in Tirisfal Glades
@@ -6930,6 +7248,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Druid
 #group WoW Forever - Druid
 #subgroup Start in Tirisfal Glades
@@ -6951,6 +7270,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Druid
 #group WoW Forever - Druid
 #subgroup Start in Tirisfal Glades
@@ -6972,6 +7292,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Druid
 #group WoW Forever - Druid
 #subgroup Start in Tirisfal Glades
@@ -6994,6 +7315,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Druid
 #group WoW Forever - Druid
 #subgroup Start in Tirisfal Glades
@@ -7019,6 +7341,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Druid
 #group WoW Forever - Druid
 #subgroup Start in Tirisfal Glades
@@ -7043,6 +7366,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Druid
 #group WoW Forever - Druid
 #subgroup Start in Tirisfal Glades
@@ -7062,6 +7386,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Druid
 #group WoW Forever - Druid
 #subgroup Start in Tirisfal Glades
@@ -7084,6 +7409,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Druid
 #group WoW Forever - Druid
 #subgroup Start in Tirisfal Glades
@@ -7103,6 +7429,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Druid
 #group WoW Forever - Druid
 #subgroup Start in Tirisfal Glades
@@ -7124,6 +7451,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Druid
 #group WoW Forever - Druid
 #subgroup Start in Tirisfal Glades
@@ -7143,6 +7471,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Druid
 #group WoW Forever - Druid
 #subgroup Start in Tirisfal Glades
@@ -7162,6 +7491,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Druid
 #group WoW Forever - Druid
 #subgroup Start in Tirisfal Glades
@@ -7181,6 +7511,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Druid
 #group WoW Forever - Druid
 #subgroup Start in Tirisfal Glades
@@ -7200,6 +7531,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Druid
 #group WoW Forever - Druid
 #subgroup Start in Tirisfal Glades
@@ -7219,6 +7551,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Druid
 #group WoW Forever - Druid
 #subgroup Start in Tirisfal Glades
@@ -7239,6 +7572,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warrior
 #group WoW Forever - Warrior
 #subgroup Start in Mulgore
@@ -7269,6 +7603,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warrior
 #group WoW Forever - Warrior
 #subgroup Start in Mulgore
@@ -7294,6 +7629,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warrior
 #group WoW Forever - Warrior
 #subgroup Start in Mulgore
@@ -7321,6 +7657,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warrior
 #group WoW Forever - Warrior
 #subgroup Start in Mulgore
@@ -7340,6 +7677,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warrior
 #group WoW Forever - Warrior
 #subgroup Start in Mulgore
@@ -7361,6 +7699,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warrior
 #group WoW Forever - Warrior
 #subgroup Start in Mulgore
@@ -7383,6 +7722,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warrior
 #group WoW Forever - Warrior
 #subgroup Start in Mulgore
@@ -7408,6 +7748,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warrior
 #group WoW Forever - Warrior
 #subgroup Start in Mulgore
@@ -7432,6 +7773,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warrior
 #group WoW Forever - Warrior
 #subgroup Start in Mulgore
@@ -7451,6 +7793,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warrior
 #group WoW Forever - Warrior
 #subgroup Start in Mulgore
@@ -7473,6 +7816,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warrior
 #group WoW Forever - Warrior
 #subgroup Start in Mulgore
@@ -7492,6 +7836,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warrior
 #group WoW Forever - Warrior
 #subgroup Start in Mulgore
@@ -7513,6 +7858,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warrior
 #group WoW Forever - Warrior
 #subgroup Start in Mulgore
@@ -7532,6 +7878,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warrior
 #group WoW Forever - Warrior
 #subgroup Start in Mulgore
@@ -7551,6 +7898,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warrior
 #group WoW Forever - Warrior
 #subgroup Start in Mulgore
@@ -7570,6 +7918,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warrior
 #group WoW Forever - Warrior
 #subgroup Start in Mulgore
@@ -7589,6 +7938,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warrior
 #group WoW Forever - Warrior
 #subgroup Start in Mulgore
@@ -7608,6 +7958,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warrior
 #group WoW Forever - Warrior
 #subgroup Start in Mulgore
@@ -7628,6 +7979,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Paladin
 #group WoW Forever - Paladin
 #subgroup Start in Mulgore
@@ -7658,6 +8010,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Paladin
 #group WoW Forever - Paladin
 #subgroup Start in Mulgore
@@ -7683,6 +8036,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Paladin
 #group WoW Forever - Paladin
 #subgroup Start in Mulgore
@@ -7712,6 +8066,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Paladin
 #group WoW Forever - Paladin
 #subgroup Start in Mulgore
@@ -7731,6 +8086,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Paladin
 #group WoW Forever - Paladin
 #subgroup Start in Mulgore
@@ -7752,6 +8108,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Paladin
 #group WoW Forever - Paladin
 #subgroup Start in Mulgore
@@ -7774,6 +8131,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Paladin
 #group WoW Forever - Paladin
 #subgroup Start in Mulgore
@@ -7799,6 +8157,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Paladin
 #group WoW Forever - Paladin
 #subgroup Start in Mulgore
@@ -7821,6 +8180,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Paladin
 #group WoW Forever - Paladin
 #subgroup Start in Mulgore
@@ -7840,6 +8200,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Paladin
 #group WoW Forever - Paladin
 #subgroup Start in Mulgore
@@ -7862,6 +8223,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Paladin
 #group WoW Forever - Paladin
 #subgroup Start in Mulgore
@@ -7881,6 +8243,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Paladin
 #group WoW Forever - Paladin
 #subgroup Start in Mulgore
@@ -7902,6 +8265,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Paladin
 #group WoW Forever - Paladin
 #subgroup Start in Mulgore
@@ -7921,6 +8285,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Paladin
 #group WoW Forever - Paladin
 #subgroup Start in Mulgore
@@ -7940,6 +8305,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Paladin
 #group WoW Forever - Paladin
 #subgroup Start in Mulgore
@@ -7959,6 +8325,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Paladin
 #group WoW Forever - Paladin
 #subgroup Start in Mulgore
@@ -7978,6 +8345,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Paladin
 #group WoW Forever - Paladin
 #subgroup Start in Mulgore
@@ -7997,6 +8365,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Paladin
 #group WoW Forever - Paladin
 #subgroup Start in Mulgore
@@ -8019,6 +8388,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Hunter
 #group WoW Forever - Hunter
 #subgroup Start in Mulgore
@@ -8049,6 +8419,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Hunter
 #group WoW Forever - Hunter
 #subgroup Start in Mulgore
@@ -8074,6 +8445,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Hunter
 #group WoW Forever - Hunter
 #subgroup Start in Mulgore
@@ -8101,6 +8473,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Hunter
 #group WoW Forever - Hunter
 #subgroup Start in Mulgore
@@ -8120,6 +8493,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Hunter
 #group WoW Forever - Hunter
 #subgroup Start in Mulgore
@@ -8141,6 +8515,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Hunter
 #group WoW Forever - Hunter
 #subgroup Start in Mulgore
@@ -8163,6 +8538,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Hunter
 #group WoW Forever - Hunter
 #subgroup Start in Mulgore
@@ -8188,6 +8564,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Hunter
 #group WoW Forever - Hunter
 #subgroup Start in Mulgore
@@ -8212,6 +8589,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Hunter
 #group WoW Forever - Hunter
 #subgroup Start in Mulgore
@@ -8231,6 +8609,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Hunter
 #group WoW Forever - Hunter
 #subgroup Start in Mulgore
@@ -8253,6 +8632,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Hunter
 #group WoW Forever - Hunter
 #subgroup Start in Mulgore
@@ -8272,6 +8652,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Hunter
 #group WoW Forever - Hunter
 #subgroup Start in Mulgore
@@ -8293,6 +8674,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Hunter
 #group WoW Forever - Hunter
 #subgroup Start in Mulgore
@@ -8312,6 +8694,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Hunter
 #group WoW Forever - Hunter
 #subgroup Start in Mulgore
@@ -8331,6 +8714,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Hunter
 #group WoW Forever - Hunter
 #subgroup Start in Mulgore
@@ -8350,6 +8734,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Hunter
 #group WoW Forever - Hunter
 #subgroup Start in Mulgore
@@ -8369,6 +8754,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Hunter
 #group WoW Forever - Hunter
 #subgroup Start in Mulgore
@@ -8388,6 +8774,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Hunter
 #group WoW Forever - Hunter
 #subgroup Start in Mulgore
@@ -8408,6 +8795,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Rogue
 #group WoW Forever - Rogue
 #subgroup Start in Mulgore
@@ -8438,6 +8826,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Rogue
 #group WoW Forever - Rogue
 #subgroup Start in Mulgore
@@ -8463,6 +8852,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Rogue
 #group WoW Forever - Rogue
 #subgroup Start in Mulgore
@@ -8490,6 +8880,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Rogue
 #group WoW Forever - Rogue
 #subgroup Start in Mulgore
@@ -8509,6 +8900,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Rogue
 #group WoW Forever - Rogue
 #subgroup Start in Mulgore
@@ -8530,6 +8922,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Rogue
 #group WoW Forever - Rogue
 #subgroup Start in Mulgore
@@ -8552,6 +8945,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Rogue
 #group WoW Forever - Rogue
 #subgroup Start in Mulgore
@@ -8579,6 +8973,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Rogue
 #group WoW Forever - Rogue
 #subgroup Start in Mulgore
@@ -8601,6 +8996,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Rogue
 #group WoW Forever - Rogue
 #subgroup Start in Mulgore
@@ -8620,6 +9016,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Rogue
 #group WoW Forever - Rogue
 #subgroup Start in Mulgore
@@ -8642,6 +9039,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Rogue
 #group WoW Forever - Rogue
 #subgroup Start in Mulgore
@@ -8661,6 +9059,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Rogue
 #group WoW Forever - Rogue
 #subgroup Start in Mulgore
@@ -8682,6 +9081,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Rogue
 #group WoW Forever - Rogue
 #subgroup Start in Mulgore
@@ -8701,6 +9101,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Rogue
 #group WoW Forever - Rogue
 #subgroup Start in Mulgore
@@ -8720,6 +9121,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Rogue
 #group WoW Forever - Rogue
 #subgroup Start in Mulgore
@@ -8739,6 +9141,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Rogue
 #group WoW Forever - Rogue
 #subgroup Start in Mulgore
@@ -8758,6 +9161,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Rogue
 #group WoW Forever - Rogue
 #subgroup Start in Mulgore
@@ -8777,6 +9181,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Rogue
 #group WoW Forever - Rogue
 #subgroup Start in Mulgore
@@ -8797,6 +9202,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Priest
 #group WoW Forever - Priest
 #subgroup Start in Mulgore
@@ -8827,6 +9233,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Priest
 #group WoW Forever - Priest
 #subgroup Start in Mulgore
@@ -8852,6 +9259,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Priest
 #group WoW Forever - Priest
 #subgroup Start in Mulgore
@@ -8879,6 +9287,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Priest
 #group WoW Forever - Priest
 #subgroup Start in Mulgore
@@ -8898,6 +9307,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Priest
 #group WoW Forever - Priest
 #subgroup Start in Mulgore
@@ -8919,6 +9329,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Priest
 #group WoW Forever - Priest
 #subgroup Start in Mulgore
@@ -8941,6 +9352,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Priest
 #group WoW Forever - Priest
 #subgroup Start in Mulgore
@@ -8966,6 +9378,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Priest
 #group WoW Forever - Priest
 #subgroup Start in Mulgore
@@ -8988,6 +9401,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Priest
 #group WoW Forever - Priest
 #subgroup Start in Mulgore
@@ -9007,6 +9421,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Priest
 #group WoW Forever - Priest
 #subgroup Start in Mulgore
@@ -9029,6 +9444,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Priest
 #group WoW Forever - Priest
 #subgroup Start in Mulgore
@@ -9048,6 +9464,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Priest
 #group WoW Forever - Priest
 #subgroup Start in Mulgore
@@ -9069,6 +9486,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Priest
 #group WoW Forever - Priest
 #subgroup Start in Mulgore
@@ -9088,6 +9506,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Priest
 #group WoW Forever - Priest
 #subgroup Start in Mulgore
@@ -9107,6 +9526,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Priest
 #group WoW Forever - Priest
 #subgroup Start in Mulgore
@@ -9126,6 +9546,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Priest
 #group WoW Forever - Priest
 #subgroup Start in Mulgore
@@ -9145,6 +9566,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Priest
 #group WoW Forever - Priest
 #subgroup Start in Mulgore
@@ -9164,6 +9586,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Priest
 #group WoW Forever - Priest
 #subgroup Start in Mulgore
@@ -9184,6 +9607,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Mage
 #group WoW Forever - Mage
 #subgroup Start in Mulgore
@@ -9214,6 +9638,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Mage
 #group WoW Forever - Mage
 #subgroup Start in Mulgore
@@ -9239,6 +9664,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Mage
 #group WoW Forever - Mage
 #subgroup Start in Mulgore
@@ -9266,6 +9692,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Mage
 #group WoW Forever - Mage
 #subgroup Start in Mulgore
@@ -9285,6 +9712,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Mage
 #group WoW Forever - Mage
 #subgroup Start in Mulgore
@@ -9306,6 +9734,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Mage
 #group WoW Forever - Mage
 #subgroup Start in Mulgore
@@ -9328,6 +9757,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Mage
 #group WoW Forever - Mage
 #subgroup Start in Mulgore
@@ -9353,6 +9783,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Mage
 #group WoW Forever - Mage
 #subgroup Start in Mulgore
@@ -9375,6 +9806,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Mage
 #group WoW Forever - Mage
 #subgroup Start in Mulgore
@@ -9394,6 +9826,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Mage
 #group WoW Forever - Mage
 #subgroup Start in Mulgore
@@ -9416,6 +9849,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Mage
 #group WoW Forever - Mage
 #subgroup Start in Mulgore
@@ -9435,6 +9869,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Mage
 #group WoW Forever - Mage
 #subgroup Start in Mulgore
@@ -9456,6 +9891,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Mage
 #group WoW Forever - Mage
 #subgroup Start in Mulgore
@@ -9475,6 +9911,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Mage
 #group WoW Forever - Mage
 #subgroup Start in Mulgore
@@ -9494,6 +9931,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Mage
 #group WoW Forever - Mage
 #subgroup Start in Mulgore
@@ -9513,6 +9951,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Mage
 #group WoW Forever - Mage
 #subgroup Start in Mulgore
@@ -9532,6 +9971,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Mage
 #group WoW Forever - Mage
 #subgroup Start in Mulgore
@@ -9551,6 +9991,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Mage
 #group WoW Forever - Mage
 #subgroup Start in Mulgore
@@ -9571,6 +10012,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warlock
 #group WoW Forever - Warlock
 #subgroup Start in Mulgore
@@ -9601,6 +10043,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warlock
 #group WoW Forever - Warlock
 #subgroup Start in Mulgore
@@ -9626,6 +10069,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warlock
 #group WoW Forever - Warlock
 #subgroup Start in Mulgore
@@ -9653,6 +10097,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warlock
 #group WoW Forever - Warlock
 #subgroup Start in Mulgore
@@ -9672,6 +10117,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warlock
 #group WoW Forever - Warlock
 #subgroup Start in Mulgore
@@ -9693,6 +10139,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warlock
 #group WoW Forever - Warlock
 #subgroup Start in Mulgore
@@ -9715,6 +10162,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warlock
 #group WoW Forever - Warlock
 #subgroup Start in Mulgore
@@ -9740,6 +10188,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warlock
 #group WoW Forever - Warlock
 #subgroup Start in Mulgore
@@ -9764,6 +10213,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warlock
 #group WoW Forever - Warlock
 #subgroup Start in Mulgore
@@ -9783,6 +10233,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warlock
 #group WoW Forever - Warlock
 #subgroup Start in Mulgore
@@ -9805,6 +10256,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warlock
 #group WoW Forever - Warlock
 #subgroup Start in Mulgore
@@ -9824,6 +10276,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warlock
 #group WoW Forever - Warlock
 #subgroup Start in Mulgore
@@ -9845,6 +10298,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warlock
 #group WoW Forever - Warlock
 #subgroup Start in Mulgore
@@ -9864,6 +10318,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warlock
 #group WoW Forever - Warlock
 #subgroup Start in Mulgore
@@ -9883,6 +10338,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warlock
 #group WoW Forever - Warlock
 #subgroup Start in Mulgore
@@ -9904,6 +10360,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warlock
 #group WoW Forever - Warlock
 #subgroup Start in Mulgore
@@ -9923,6 +10380,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warlock
 #group WoW Forever - Warlock
 #subgroup Start in Mulgore
@@ -9942,6 +10400,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Warlock
 #group WoW Forever - Warlock
 #subgroup Start in Mulgore
@@ -9962,6 +10421,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Shaman
 #group WoW Forever - Shaman
 #subgroup Start in Mulgore
@@ -9992,6 +10452,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Shaman
 #group WoW Forever - Shaman
 #subgroup Start in Mulgore
@@ -10019,6 +10480,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Shaman
 #group WoW Forever - Shaman
 #subgroup Start in Mulgore
@@ -10046,6 +10508,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Shaman
 #group WoW Forever - Shaman
 #subgroup Start in Mulgore
@@ -10065,6 +10528,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Shaman
 #group WoW Forever - Shaman
 #subgroup Start in Mulgore
@@ -10086,6 +10550,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Shaman
 #group WoW Forever - Shaman
 #subgroup Start in Mulgore
@@ -10108,6 +10573,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Shaman
 #group WoW Forever - Shaman
 #subgroup Start in Mulgore
@@ -10133,6 +10599,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Shaman
 #group WoW Forever - Shaman
 #subgroup Start in Mulgore
@@ -10157,6 +10624,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Shaman
 #group WoW Forever - Shaman
 #subgroup Start in Mulgore
@@ -10176,6 +10644,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Shaman
 #group WoW Forever - Shaman
 #subgroup Start in Mulgore
@@ -10198,6 +10667,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Shaman
 #group WoW Forever - Shaman
 #subgroup Start in Mulgore
@@ -10217,6 +10687,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Shaman
 #group WoW Forever - Shaman
 #subgroup Start in Mulgore
@@ -10238,6 +10709,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Shaman
 #group WoW Forever - Shaman
 #subgroup Start in Mulgore
@@ -10257,6 +10729,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Shaman
 #group WoW Forever - Shaman
 #subgroup Start in Mulgore
@@ -10276,6 +10749,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Shaman
 #group WoW Forever - Shaman
 #subgroup Start in Mulgore
@@ -10295,6 +10769,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Shaman
 #group WoW Forever - Shaman
 #subgroup Start in Mulgore
@@ -10314,6 +10789,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Shaman
 #group WoW Forever - Shaman
 #subgroup Start in Mulgore
@@ -10333,6 +10809,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Shaman
 #group WoW Forever - Shaman
 #subgroup Start in Mulgore
@@ -10353,6 +10830,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Druid
 #group WoW Forever - Druid
 #subgroup Start in Mulgore
@@ -10383,6 +10861,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Druid
 #group WoW Forever - Druid
 #subgroup Start in Mulgore
@@ -10408,6 +10887,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Druid
 #group WoW Forever - Druid
 #subgroup Start in Mulgore
@@ -10435,6 +10915,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Druid
 #group WoW Forever - Druid
 #subgroup Start in Mulgore
@@ -10456,6 +10937,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Druid
 #group WoW Forever - Druid
 #subgroup Start in Mulgore
@@ -10477,6 +10959,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Druid
 #group WoW Forever - Druid
 #subgroup Start in Mulgore
@@ -10499,6 +10982,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Druid
 #group WoW Forever - Druid
 #subgroup Start in Mulgore
@@ -10524,6 +11008,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Druid
 #group WoW Forever - Druid
 #subgroup Start in Mulgore
@@ -10548,6 +11033,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Druid
 #group WoW Forever - Druid
 #subgroup Start in Mulgore
@@ -10567,6 +11053,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Druid
 #group WoW Forever - Druid
 #subgroup Start in Mulgore
@@ -10589,6 +11076,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Druid
 #group WoW Forever - Druid
 #subgroup Start in Mulgore
@@ -10608,6 +11096,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Druid
 #group WoW Forever - Druid
 #subgroup Start in Mulgore
@@ -10629,6 +11118,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Druid
 #group WoW Forever - Druid
 #subgroup Start in Mulgore
@@ -10648,6 +11138,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Druid
 #group WoW Forever - Druid
 #subgroup Start in Mulgore
@@ -10667,6 +11158,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Druid
 #group WoW Forever - Druid
 #subgroup Start in Mulgore
@@ -10686,6 +11178,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Druid
 #group WoW Forever - Druid
 #subgroup Start in Mulgore
@@ -10705,6 +11198,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Druid
 #group WoW Forever - Druid
 #subgroup Start in Mulgore
@@ -10724,6 +11218,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Horde Druid
 #group WoW Forever - Druid
 #subgroup Start in Mulgore

@@ -4,6 +4,7 @@ if WoWForeverGuide_UseEnglish then
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warrior
 #group WoW Forever - Warrior
 #subgroup Dwarf route
@@ -32,6 +33,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warrior
 #group WoW Forever - Warrior
 #subgroup Dwarf route
@@ -63,6 +65,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warrior
 #group WoW Forever - Warrior
 #subgroup Dwarf route
@@ -92,6 +95,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warrior
 #group WoW Forever - Warrior
 #subgroup Dwarf route
@@ -116,6 +120,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warrior
 #group WoW Forever - Warrior
 #subgroup Dwarf route
@@ -145,6 +150,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warrior
 #group WoW Forever - Warrior
 #subgroup Dwarf route
@@ -169,6 +175,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warrior
 #group WoW Forever - Warrior
 #subgroup Dwarf route
@@ -195,6 +202,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warrior
 #group WoW Forever - Warrior
 #subgroup Dwarf route
@@ -219,6 +227,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warrior
 #group WoW Forever - Warrior
 #subgroup Dwarf route
@@ -246,6 +255,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warrior
 #group WoW Forever - Warrior
 #subgroup Dwarf route
@@ -270,6 +280,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warrior
 #group WoW Forever - Warrior
 #subgroup Dwarf route
@@ -294,6 +305,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warrior
 #group WoW Forever - Warrior
 #subgroup Dwarf route
@@ -318,6 +330,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warrior
 #group WoW Forever - Warrior
 #subgroup Dwarf route
@@ -342,6 +355,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warrior
 #group WoW Forever - Warrior
 #subgroup Dwarf route
@@ -366,6 +380,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warrior
 #group WoW Forever - Warrior
 #subgroup Dwarf route
@@ -390,6 +405,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warrior
 #group WoW Forever - Warrior
 #subgroup Dwarf route
@@ -414,6 +430,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warrior
 #group WoW Forever - Warrior
 #subgroup Dwarf route
@@ -438,6 +455,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Warrior
 #group WoW Forever - Warrior
 #subgroup Dwarf route
@@ -463,6 +481,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Hunter
 #group WoW Forever - Hunter
 #subgroup Dwarf route
@@ -491,6 +510,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Hunter
 #group WoW Forever - Hunter
 #subgroup Dwarf route
@@ -522,6 +542,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Hunter
 #group WoW Forever - Hunter
 #subgroup Dwarf route
@@ -551,6 +572,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Hunter
 #group WoW Forever - Hunter
 #subgroup Dwarf route
@@ -575,6 +597,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Hunter
 #group WoW Forever - Hunter
 #subgroup Dwarf route
@@ -604,6 +627,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Hunter
 #group WoW Forever - Hunter
 #subgroup Dwarf route
@@ -628,6 +652,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Hunter
 #group WoW Forever - Hunter
 #subgroup Dwarf route
@@ -654,6 +679,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Hunter
 #group WoW Forever - Hunter
 #subgroup Dwarf route
@@ -678,6 +704,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Hunter
 #group WoW Forever - Hunter
 #subgroup Dwarf route
@@ -705,6 +732,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Hunter
 #group WoW Forever - Hunter
 #subgroup Dwarf route
@@ -729,6 +757,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Hunter
 #group WoW Forever - Hunter
 #subgroup Dwarf route
@@ -753,6 +782,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Hunter
 #group WoW Forever - Hunter
 #subgroup Dwarf route
@@ -777,6 +807,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Hunter
 #group WoW Forever - Hunter
 #subgroup Dwarf route
@@ -801,6 +832,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Hunter
 #group WoW Forever - Hunter
 #subgroup Dwarf route
@@ -825,6 +857,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Hunter
 #group WoW Forever - Hunter
 #subgroup Dwarf route
@@ -849,6 +882,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Hunter
 #group WoW Forever - Hunter
 #subgroup Dwarf route
@@ -873,6 +907,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Hunter
 #group WoW Forever - Hunter
 #subgroup Dwarf route
@@ -897,6 +932,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Hunter
 #group WoW Forever - Hunter
 #subgroup Dwarf route
@@ -922,6 +958,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Rogue
 #group WoW Forever - Rogue
 #subgroup Dwarf route
@@ -950,6 +987,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Rogue
 #group WoW Forever - Rogue
 #subgroup Dwarf route
@@ -981,6 +1019,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Rogue
 #group WoW Forever - Rogue
 #subgroup Dwarf route
@@ -1010,6 +1049,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Rogue
 #group WoW Forever - Rogue
 #subgroup Dwarf route
@@ -1034,6 +1074,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Rogue
 #group WoW Forever - Rogue
 #subgroup Dwarf route
@@ -1063,6 +1104,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Rogue
 #group WoW Forever - Rogue
 #subgroup Dwarf route
@@ -1089,6 +1131,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Rogue
 #group WoW Forever - Rogue
 #subgroup Dwarf route
@@ -1113,6 +1156,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Rogue
 #group WoW Forever - Rogue
 #subgroup Dwarf route
@@ -1137,6 +1181,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Rogue
 #group WoW Forever - Rogue
 #subgroup Dwarf route
@@ -1164,6 +1209,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Rogue
 #group WoW Forever - Rogue
 #subgroup Dwarf route
@@ -1188,6 +1234,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Rogue
 #group WoW Forever - Rogue
 #subgroup Dwarf route
@@ -1212,6 +1259,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Rogue
 #group WoW Forever - Rogue
 #subgroup Dwarf route
@@ -1236,6 +1284,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Rogue
 #group WoW Forever - Rogue
 #subgroup Dwarf route
@@ -1260,6 +1309,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Rogue
 #group WoW Forever - Rogue
 #subgroup Dwarf route
@@ -1284,6 +1334,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Rogue
 #group WoW Forever - Rogue
 #subgroup Dwarf route
@@ -1308,6 +1359,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Rogue
 #group WoW Forever - Rogue
 #subgroup Dwarf route
@@ -1332,6 +1384,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Rogue
 #group WoW Forever - Rogue
 #subgroup Dwarf route
@@ -1356,6 +1409,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Rogue
 #group WoW Forever - Rogue
 #subgroup Dwarf route
@@ -1381,6 +1435,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Priest
 #group WoW Forever - Priest
 #subgroup Dwarf route
@@ -1409,6 +1464,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Priest
 #group WoW Forever - Priest
 #subgroup Dwarf route
@@ -1440,6 +1496,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Priest
 #group WoW Forever - Priest
 #subgroup Dwarf route
@@ -1469,6 +1526,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Priest
 #group WoW Forever - Priest
 #subgroup Dwarf route
@@ -1493,6 +1551,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Priest
 #group WoW Forever - Priest
 #subgroup Dwarf route
@@ -1522,6 +1581,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Priest
 #group WoW Forever - Priest
 #subgroup Dwarf route
@@ -1546,6 +1606,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Priest
 #group WoW Forever - Priest
 #subgroup Dwarf route
@@ -1570,6 +1631,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Priest
 #group WoW Forever - Priest
 #subgroup Dwarf route
@@ -1594,6 +1656,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Priest
 #group WoW Forever - Priest
 #subgroup Dwarf route
@@ -1621,6 +1684,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Priest
 #group WoW Forever - Priest
 #subgroup Dwarf route
@@ -1645,6 +1709,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Priest
 #group WoW Forever - Priest
 #subgroup Dwarf route
@@ -1669,6 +1734,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Priest
 #group WoW Forever - Priest
 #subgroup Dwarf route
@@ -1693,6 +1759,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Priest
 #group WoW Forever - Priest
 #subgroup Dwarf route
@@ -1717,6 +1784,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Priest
 #group WoW Forever - Priest
 #subgroup Dwarf route
@@ -1741,6 +1809,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Priest
 #group WoW Forever - Priest
 #subgroup Dwarf route
@@ -1765,6 +1834,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Priest
 #group WoW Forever - Priest
 #subgroup Dwarf route
@@ -1789,6 +1859,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Priest
 #group WoW Forever - Priest
 #subgroup Dwarf route
@@ -1813,6 +1884,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Priest
 #group WoW Forever - Priest
 #subgroup Dwarf route
@@ -1838,6 +1910,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Paladin
 #group WoW Forever - Paladin
 #subgroup Dwarf route
@@ -1866,6 +1939,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Paladin
 #group WoW Forever - Paladin
 #subgroup Dwarf route
@@ -1897,6 +1971,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Paladin
 #group WoW Forever - Paladin
 #subgroup Dwarf route
@@ -1928,6 +2003,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Paladin
 #group WoW Forever - Paladin
 #subgroup Dwarf route
@@ -1952,6 +2028,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Paladin
 #group WoW Forever - Paladin
 #subgroup Dwarf route
@@ -1981,6 +2058,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Paladin
 #group WoW Forever - Paladin
 #subgroup Dwarf route
@@ -2005,6 +2083,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Paladin
 #group WoW Forever - Paladin
 #subgroup Dwarf route
@@ -2029,6 +2108,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Paladin
 #group WoW Forever - Paladin
 #subgroup Dwarf route
@@ -2053,6 +2133,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Paladin
 #group WoW Forever - Paladin
 #subgroup Dwarf route
@@ -2080,6 +2161,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Paladin
 #group WoW Forever - Paladin
 #subgroup Dwarf route
@@ -2104,6 +2186,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Paladin
 #group WoW Forever - Paladin
 #subgroup Dwarf route
@@ -2128,6 +2211,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Paladin
 #group WoW Forever - Paladin
 #subgroup Dwarf route
@@ -2152,6 +2236,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Paladin
 #group WoW Forever - Paladin
 #subgroup Dwarf route
@@ -2176,6 +2261,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Paladin
 #group WoW Forever - Paladin
 #subgroup Dwarf route
@@ -2200,6 +2286,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Paladin
 #group WoW Forever - Paladin
 #subgroup Dwarf route
@@ -2224,6 +2311,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Paladin
 #group WoW Forever - Paladin
 #subgroup Dwarf route
@@ -2248,6 +2336,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Paladin
 #group WoW Forever - Paladin
 #subgroup Dwarf route
@@ -2272,6 +2361,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Paladin
 #group WoW Forever - Paladin
 #subgroup Dwarf route
@@ -2299,6 +2389,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Shaman
 #group WoW Forever - Shaman
 #subgroup Dwarf route
@@ -2327,6 +2418,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Shaman
 #group WoW Forever - Shaman
 #subgroup Dwarf route
@@ -2360,6 +2452,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Shaman
 #group WoW Forever - Shaman
 #subgroup Dwarf route
@@ -2389,6 +2482,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Shaman
 #group WoW Forever - Shaman
 #subgroup Dwarf route
@@ -2413,6 +2507,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Shaman
 #group WoW Forever - Shaman
 #subgroup Dwarf route
@@ -2442,6 +2537,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Shaman
 #group WoW Forever - Shaman
 #subgroup Dwarf route
@@ -2466,6 +2562,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Shaman
 #group WoW Forever - Shaman
 #subgroup Dwarf route
@@ -2492,6 +2589,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Shaman
 #group WoW Forever - Shaman
 #subgroup Dwarf route
@@ -2516,6 +2614,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Shaman
 #group WoW Forever - Shaman
 #subgroup Dwarf route
@@ -2543,6 +2642,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Shaman
 #group WoW Forever - Shaman
 #subgroup Dwarf route
@@ -2567,6 +2667,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Shaman
 #group WoW Forever - Shaman
 #subgroup Dwarf route
@@ -2591,6 +2692,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Shaman
 #group WoW Forever - Shaman
 #subgroup Dwarf route
@@ -2615,6 +2717,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Shaman
 #group WoW Forever - Shaman
 #subgroup Dwarf route
@@ -2639,6 +2742,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Shaman
 #group WoW Forever - Shaman
 #subgroup Dwarf route
@@ -2663,6 +2767,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Shaman
 #group WoW Forever - Shaman
 #subgroup Dwarf route
@@ -2687,6 +2792,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Shaman
 #group WoW Forever - Shaman
 #subgroup Dwarf route
@@ -2711,6 +2817,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Shaman
 #group WoW Forever - Shaman
 #subgroup Dwarf route
@@ -2735,6 +2842,7 @@ step
 
 RXPGuides.RegisterGuide([[
 #classic
+#forever
 << Alliance Shaman
 #group WoW Forever - Shaman
 #subgroup Dwarf route

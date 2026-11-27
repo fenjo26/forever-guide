@@ -1,22 +1,33 @@
-# WoW Forever Guide – RestedXP leveling guides (all races & classes, 1-60)
+# FuntGuides – leveling pack for WoW: Forever (all races & classes, 1-60)
 
-Leveling guides for **World of Warcraft: Forever** that load straight into the **RestedXP** addon.
-Every race and class you can pick in Forever is covered, including the new Skyborne race, plus start-anywhere routes so any class can level through any starting zone of its faction. Each route is split into zone brackets (for example **14-17 Darkshore**, **24-28 Wetlands**), grouped by class, and each bracket loads the next one when you finish it.
+**FuntGuides** (formerly **RXP_WoWForeverGuide**) is a leveling pack for **World of Warcraft: Forever** that runs in the **RestedXP Guides** addon. It bundles:
 
-The guides ship in **ten languages**: English plus Español (esES/esMX), Português, Deutsch, Français, Русский, 한국어, 简体中文 and 繁體中文. The client's language is detected automatically (`GetLocale()`); quest, NPC and place names use the official localized names, so they match what you see in your quest log, and quest-log sync works in every language.
+- the full **WoW Forever routes 1-60** for every race and class you can pick in Forever, including the Skyborne race, plus start-anywhere routes so any class can level through any starting zone of its faction. Each route is split into zone brackets (for example **14-17 Darkshore**, **24-28 Wetlands**), grouped by class, and each bracket loads the next one when you finish it;
+- **RestedXP Horde 30-45**, a Horde speedrun that bridges the free RestedXP Forever guides (1-30, shipped with the engine) up to level 45;
+- **FuntGuides - Class Quests**, the Horde class quest chains (Warlock 30-50, Warrior 30-40, Shaman 30);
+- **FuntGuides - Forever Custom**, the server's custom quests (ID ≥ 60000) grouped by camp, levels 30-58.
 
-## Download
+The class routes ship in **ten languages**: English plus Español (esES/esMX), Português, Deutsch, Français, Русский, 한국어, 简体中文 and 繁體中文. The client's language is detected automatically (`GetLocale()`); quest, NPC and place names use the official localized names, so they match what you see in your quest log, and quest-log sync works in every language.
 
-1. Go to **[Releases](../../releases/latest)** and download **RXP_WoWForeverGuide.zip**.
+## Download & install
+
+Two archives ship with each release:
+
+| Archive | Contents |
+|---|---|
+| **FuntGuides_Portable.zip** | everything in one: the RestedXP Guides engine (v4.11.36 build with the free RestedXP Forever guides and the Forever quest DB) + FuntGuides + an install note |
+| **FuntGuides.zip** | just the FuntGuides addon, if you already run that engine build |
+
+1. Go to **[Releases](../../releases/latest)** and download **FuntGuides_Portable.zip** (or **FuntGuides.zip** if you already have the engine).
 2. Close WoW.
 3. Unzip it into your WoW: Forever AddOns folder so you end up with:
    ```
-   ...\Interface\AddOns\RXP_WoWForeverGuide\
+   ...\Interface\AddOns\FuntGuides\
+   ...\Interface\AddOns\RXPGuides\   (portable zip only)
    ```
    (In the Battle.net app: pick WoW: Forever, click the cog next to **Play**, **Show in Explorer**, then open `Interface\AddOns`.)
-4. You also need the **RestedXP Guides** addon installed.
-5. Start the game. On the character screen click **AddOns** and make sure **RestedXP - WoW Forever Guide (All Classes)** is ticked.
-6. In game, open RestedXP's guide list and pick **WoW Forever - (your class)**, then your route (your race, or **Start in ...**) and the bracket for your level. Or type **/wfg** to get the brackets that fit your level straight away.
+4. On the character screen click **AddOns** and make sure **FuntGuides** and **RXPGuides** are ticked. If you still have the old **RXP_WoWForeverGuide** installed, untick it (or delete the folder) — otherwise every guide loads twice.
+5. In game, open RestedXP's guide list and pick **WoW Forever - (your class)**, then your route (your race, or **Start in ...**) and the bracket for your level. Or type **/wfg** to get the brackets that fit your level straight away.
 
 ## Guides
 
@@ -46,6 +57,23 @@ zone of its faction:
 So a Night Elf Druid can pick **WoW Forever - Druid > Start in Elwynn Forest** and quest through Northshire, Westfall and onwards.
 Each one starts with a "getting there" step that tells you how to travel to that zone from your own starting area.
 
+### Beyond the class routes
+
+Three more guide groups ship in the pack, all built from QuestieDB/Forever ground-truth data (quest IDs, NPC and object coordinates):
+
+- **RestedXP Horde 30-45** — a Horde speedrun from 30 to 45 that picks up where the free RestedXP Forever guides stop:
+  30-33 Hillsbrad / Arathi / Shimmering Flats, 33-37 Stranglethorn Vale, 37-39 Badlands / Swamp of Sorrows,
+  39-41 Dustwallow Marsh / Stranglethorn Vale, 41-43 Tanaris, 43-45 Feralas. The engine's free 20-30 guide chains
+  straight into it.
+- **FuntGuides - Class Quests** — the Horde class chains the class routes don't cover at level: Warlock 30-50
+  (Seeking Strahad / Tome of the Cabal), Warrior 30-40 (Whirlwind Weapon), Shaman 30 (Call of Air). Switch to the
+  group when you hit the level, then switch back to your route. (This server has no priest-only quests between
+  level 10 and 60.)
+- **FuntGuides - Forever Custom** — the server's own custom quests (IDs ≥ 60000), clustered by camp so one trip
+  picks up everything at a spot, clears the nearby targets and hands in there. Seventeen guides covering 30-58:
+  Desolace, Arathi Highlands, Dustwallow Marsh, Stranglethorn Vale, Alterac Mountains, Tanaris, Orgrimmar,
+  Azshara, Blasted Lands, the Hinterlands and more.
+
 ### How the guides work
 
 Each route follows its starting zones, then the Alliance or Horde route to 60, with the class
@@ -68,14 +96,16 @@ For example, **WoW Forever - Druid > Night Elf route**: 1-14 Teldrassil/Darkshor
   and checked against the game with `IsQuestFlaggedCompleted`, so picking up a guide mid-route — say, a Horde druid
   arriving at level 10 — lands on the first quest you haven't done yet. A title that maps to several IDs (faction or
   zone variants) only counts as done when every ID is completed.
-- **/wfg** opens the guide picker any time; **/wfg sync** jumps the open guide to your quest log again.
+- **/wfg** opens the guide picker any time; **/wfg sync** jumps the open guide to your quest log again. Sync works for
+  every guide group in the pack — the WoW Forever routes, **RestedXP Horde 30-45**, **FuntGuides - Class Quests**,
+  **FuntGuides - Forever Custom** — and for the engine's own **RestedXP Forever Guide (A)/(H)** guides.
 
 ### Rebuilding the brackets
 
 The brackets are made from the full routes by `tools/split-brackets.cjs` (Node.js). It cuts at every `.xp` level
 checkpoint and names each bracket after the zones it visits.
 
-`RXP_WoWForeverGuide/QuestIDs.lua` (quest title → ID, used by the sync) is generated data: the quest titles and IDs
+`FuntGuides/QuestIDs.lua` (quest title → ID, used by the sync) is generated data: the quest titles and IDs
 of WoW: Forever, titles that several quests share kept as a list. Regenerate it whenever new quests are mapped out.
 
 ### Regenerating the translations
@@ -95,6 +125,13 @@ python3 tools/translate-locales.py \
 
 ## Notes
 
+- Before v1.4 this project shipped as the **RXP_WoWForeverGuide** addon; it is now **FuntGuides** — the same guides
+  plus the extras above, with the `#forever` tag on every guide so the engine uses the Forever server data.
+  When upgrading from an older release, delete the old `RXP_WoWForeverGuide` folder (or untick it in the addon list)
+  so guides don't load twice.
+- The RXPGuides engine bundled in the portable zip is [RestedXP's](https://www.restedxp.com) free addon
+  (CC BY-NC-SA 4.0), distributed here unchanged except for its free Forever guide set; FuntGuides is not
+  affiliated with RestedXP.
 - WoW: Forever is new, so some quests may have changed. Steps name the quests and the hub rather than
   relying on quest IDs, and waypoints are approximate.
 - The Skyborne start on Zephras Isle. Its quests are new, so that part of their guides gives general directions until the isle is mapped out; from level 12 they follow the full Alliance (Westfall) or Horde (Barrens) route.
